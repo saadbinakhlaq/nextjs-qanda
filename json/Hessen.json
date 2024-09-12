@@ -1,0 +1,128 @@
+[
+    {
+        "question": "Welches Wappen geh\u00f6rt zum Bundesland Hessen?",
+        "choices": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "correct_choice": "a",
+        "option a": "1",
+        "option b": "2",
+        "option c": "3",
+        "option d": "4"
+    },
+    {
+        "question": "Welches ist ein Landkreis in Hessen?",
+        "choices": {
+            "a": "Ammerland",
+            "b": "Alt\u00f6tting",
+            "c": "Prignitz",
+            "d": "Main-Taunus-Kreis"
+        },
+        "option a": "Ammerland",
+        "option b": "Alt\u00f6tting",
+        "option c": "Prignitz",
+        "correct_choice": "d",
+        "option d": "Main-Taunus-Kreis"
+    },
+    {
+        "question": "F\u00fcr wie viele Jahre wird der Landtag in Hessen gew\u00e4hlt?",
+        "choices": {
+            "a": "3",
+            "b": "4",
+            "c": "5",
+            "d": "6"
+        },
+        "option a": "3",
+        "option b": "4",
+        "correct_choice": "c",
+        "option c": "5",
+        "option d": "6"
+    },
+    {
+        "question": "Ab welchem Alter darf man in Hessen bei Kommunalwahlen w\u00e4hlen?",
+        "choices": {
+            "a": "14",
+            "b": "16",
+            "c": "18",
+            "d": "20"
+        },
+        "option a": "14",
+        "option b": "16",
+        "correct_choice": "c",
+        "option c": "18",
+        "option d": "20"
+    },
+    {
+        "question": "Welche Farben hat die Landesflagge von Hessen?",
+        "choices": {
+            "a": "blau-wei\u00df-rot",
+            "b": "rot-wei\u00df",
+            "c": "schwarz-gold",
+            "d": "gr\u00fcn-wei\u00df-rot"
+        },
+        "option a": "blau-wei\u00df-rot",
+        "correct_choice": "b",
+        "option b": "rot-wei\u00df",
+        "option c": "schwarz-gold",
+        "option d": "gr\u00fcn-wei\u00df-rot"
+    },
+    {
+        "question": "Wo k\u00f6nnen Sie sich in Hessen \u00fcber politische Themen informieren?",
+        "choices": {
+            "a": "bei der Landeszentrale f\u00fcr politische Bildung",
+            "b": "bei der Verbraucherzentrale",
+            "c": "beim Ordnungsamt der Gemeinde",
+            "d": "bei den Kirchen"
+        },
+        "correct_choice": "a",
+        "option a": "bei der Landeszentrale f\u00fcr politische Bildung",
+        "option b": "bei der Verbraucherzentrale",
+        "option c": "beim Ordnungsamt der Gemeinde",
+        "option d": "bei den Kirchen"
+    },
+    {
+        "question": "Die Landeshauptstadt von Hessen hei\u00dft ...",
+        "choices": {
+            "a": "Kassel.",
+            "b": "Darmstadt.",
+            "c": "Frankfurt.",
+            "d": "Wiesbaden."
+        },
+        "option a": "Kassel.",
+        "option b": "Darmstadt.",
+        "option c": "Frankfurt.",
+        "correct_choice": "d",
+        "option d": "Wiesbaden."
+    },
+    {
+        "question": "Welches Bundesland ist Hessen?",
+        "choices": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "option a": "1",
+        "option b": "2",
+        "correct_choice": "c",
+        "option c": "3",
+        "option d": "4"
+    },
+    {
+        "question": "Wie nennt man den Regierungschef / die Regierungschefin in Hessen?",
+        "choices": {
+            "a": "Erster Minister / Erste Ministerin",
+            "b": "Premierminister / Premierministerin",
+            "c": "B\u00fcrgermeister / B\u00fcrgermeisterin",
+            "d": "Ministerpr\u00e4sident / Ministerpr\u00e4sidentin"
+        },
+        "option a": "Erster Minister / Erste Ministerin",
+        "option b": "Premierminister / Premierministerin",
+        "option c": "B\u00fcrgermeister / B\u00fcrgermeisterin",
+        "correct_choice": "d",
+        "option d": "Ministerpr\u00e4sident / Ministerpr\u00e4sidentin"
+    }
+]

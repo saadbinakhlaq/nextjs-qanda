@@ -1,0 +1,128 @@
+[
+    {
+        "question": "Welches Wappen geh\u00f6rt zum Freistaat Th\u00fcringen?",
+        "choices": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "option a": "1",
+        "option b": "2",
+        "option c": "3",
+        "correct_choice": "d",
+        "option d": "4"
+    },
+    {
+        "question": "Welches ist ein Landkreis in Th\u00fcringen?",
+        "choices": {
+            "a": "Ammerland",
+            "b": "Alt\u00f6tting",
+            "c": "Nordfriesland",
+            "d": "Wartburgkreis"
+        },
+        "option a": "Ammerland",
+        "option b": "Alt\u00f6tting",
+        "option c": "Nordfriesland",
+        "correct_choice": "d",
+        "option d": "Wartburgkreis"
+    },
+    {
+        "question": "F\u00fcr wie viele Jahre wird der Landtag in Th\u00fcringen gew\u00e4hlt?",
+        "choices": {
+            "a": "3",
+            "b": "4",
+            "c": "5",
+            "d": "6"
+        },
+        "option a": "3",
+        "option b": "4",
+        "correct_choice": "c",
+        "option c": "5",
+        "option d": "6"
+    },
+    {
+        "question": "Ab welchem Alter darf man in Th\u00fcringen bei Kommunalwahlen w\u00e4hlen?",
+        "choices": {
+            "a": "14",
+            "b": "18",
+            "c": "16",
+            "d": "20"
+        },
+        "option a": "14",
+        "option b": "18",
+        "correct_choice": "c",
+        "option c": "16",
+        "option d": "20"
+    },
+    {
+        "question": "Welche Farben hat die Landesflagge von Th\u00fcringen?",
+        "choices": {
+            "a": "blau-wei\u00df-rot",
+            "b": "wei\u00df-rot",
+            "c": "gr\u00fcn-wei\u00df-rot",
+            "d": "schwarz-gold"
+        },
+        "option a": "blau-wei\u00df-rot",
+        "correct_choice": "b",
+        "option b": "wei\u00df-rot",
+        "option c": "gr\u00fcn-wei\u00df-rot",
+        "option d": "schwarz-gold"
+    },
+    {
+        "question": "Wo k\u00f6nnen Sie sich in Th\u00fcringen \u00fcber politische Themen informieren?",
+        "choices": {
+            "a": "bei den Kirchen",
+            "b": "bei der Verbraucherzentrale",
+            "c": "bei der Landeszentrale f\u00fcr politische Bildung",
+            "d": "beim Ordnungsamt der Gemeinde"
+        },
+        "option a": "bei den Kirchen",
+        "option b": "bei der Verbraucherzentrale",
+        "correct_choice": "c",
+        "option c": "bei der Landeszentrale f\u00fcr politische Bildung",
+        "option d": "beim Ordnungsamt der Gemeinde"
+    },
+    {
+        "question": "Die Landeshauptstadt von Th\u00fcringen hei\u00dft \u2026",
+        "choices": {
+            "a": "Eisenach.",
+            "b": "Erfurt.",
+            "c": "Gera.",
+            "d": "Jena."
+        },
+        "option a": "Eisenach.",
+        "correct_choice": "b",
+        "option b": "Erfurt.",
+        "option c": "Gera.",
+        "option d": "Jena."
+    },
+    {
+        "question": "Welches Bundesland ist Th\u00fcringen?",
+        "choices": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "option a": "1",
+        "correct_choice": "b",
+        "option b": "2",
+        "option c": "3",
+        "option d": "4"
+    },
+    {
+        "question": "Wie nennt man den Regierungschef / die Regierungschefin in Th\u00fcringen?",
+        "choices": {
+            "a": "Erster Minister / Erste Ministerin",
+            "b": "Premierminister / Premierministerin",
+            "c": "B\u00fcrgermeister / B\u00fcrgermeisterin",
+            "d": "Ministerpr\u00e4sident / Ministerpr\u00e4sidentin"
+        },
+        "option a": "Erster Minister / Erste Ministerin",
+        "option b": "Premierminister / Premierministerin",
+        "option c": "B\u00fcrgermeister / B\u00fcrgermeisterin",
+        "correct_choice": "d",
+        "option d": "Ministerpr\u00e4sident / Ministerpr\u00e4sidentin"
+    }
+]

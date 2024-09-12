@@ -1,0 +1,128 @@
+[
+    {
+        "question": "Welches Wappen geh\u00f6rt zum Bundesland Niedersachsen?",
+        "choices": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "option a": "1",
+        "option b": "2",
+        "correct_choice": "c",
+        "option c": "3",
+        "option d": "4"
+    },
+    {
+        "question": "Welches ist ein Landkreis in Niedersachsen?",
+        "choices": {
+            "a": "Ammerland",
+            "b": "Rhein-Sieg-Kreis",
+            "c": "Nordfriesland",
+            "d": "Vogtlandkreis"
+        },
+        "correct_choice": "a",
+        "option a": "Ammerland",
+        "option b": "Rhein-Sieg-Kreis",
+        "option c": "Nordfriesland",
+        "option d": "Vogtlandkreis"
+    },
+    {
+        "question": "F\u00fcr wie viele Jahre wird der Landtag in Niedersachsen gew\u00e4hlt?",
+        "choices": {
+            "a": "3",
+            "b": "4",
+            "c": "5",
+            "d": "6"
+        },
+        "option a": "3",
+        "option b": "4",
+        "correct_choice": "c",
+        "option c": "5",
+        "option d": "6"
+    },
+    {
+        "question": "Ab welchem Alter darf man in Niedersachsen bei Kommunalwahlen w\u00e4hlen?",
+        "choices": {
+            "a": "14",
+            "b": "16",
+            "c": "18",
+            "d": "20"
+        },
+        "option a": "14",
+        "correct_choice": "b",
+        "option b": "16",
+        "option c": "18",
+        "option d": "20"
+    },
+    {
+        "question": "Welche Farben hat die Landesflagge von Niedersachsen?",
+        "choices": {
+            "a": "wei\u00df-blau",
+            "b": "schwarz-rot-gold",
+            "c": "schwarz-gelb",
+            "d": "blau-wei\u00df-rot"
+        },
+        "option a": "wei\u00df-blau",
+        "correct_choice": "b",
+        "option b": "schwarz-rot-gold",
+        "option c": "schwarz-gelb",
+        "option d": "blau-wei\u00df-rot"
+    },
+    {
+        "question": "Wo k\u00f6nnen Sie sich in Niedersachsen \u00fcber politische Themen informieren?",
+        "choices": {
+            "a": "bei der Landeszentrale f\u00fcr politische Bildung",
+            "b": "beim Ordnungsamt der Gemeinde",
+            "c": "bei der Verbraucherzentrale",
+            "d": "bei den Kirchen"
+        },
+        "correct_choice": "a",
+        "option a": "bei der Landeszentrale f\u00fcr politische Bildung",
+        "option b": "beim Ordnungsamt der Gemeinde",
+        "option c": "bei der Verbraucherzentrale",
+        "option d": "bei den Kirchen"
+    },
+    {
+        "question": "Die Landeshauptstadt von Niedersachsen hei\u00dft \u2026",
+        "choices": {
+            "a": "Hannover.",
+            "b": "Braunschweig.",
+            "c": "Wolfsburg.",
+            "d": "Osnabr\u00fcck."
+        },
+        "correct_choice": "a",
+        "option a": "Hannover.",
+        "option b": "Braunschweig.",
+        "option c": "Wolfsburg.",
+        "option d": "Osnabr\u00fcck."
+    },
+    {
+        "question": "Welches Bundesland ist Niedersachsen?",
+        "choices": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "correct_choice": "a",
+        "option a": "1",
+        "option b": "2",
+        "option c": "3",
+        "option d": "4"
+    },
+    {
+        "question": "Wie nennt man den Regierungschef / die Regierungschefin in Niedersachsen?",
+        "choices": {
+            "a": "Erster Minister / Erste Ministerin",
+            "b": "Premierminister / Premierministerin",
+            "c": "B\u00fcrgermeister / B\u00fcrgermeisterin",
+            "d": "Ministerpr\u00e4sident / Ministerpr\u00e4sidentin"
+        },
+        "option a": "Erster Minister / Erste Ministerin",
+        "option b": "Premierminister / Premierministerin",
+        "option c": "B\u00fcrgermeister / B\u00fcrgermeisterin",
+        "correct_choice": "d",
+        "option d": "Ministerpr\u00e4sident / Ministerpr\u00e4sidentin"
+    }
+]

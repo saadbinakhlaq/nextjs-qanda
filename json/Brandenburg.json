@@ -1,0 +1,128 @@
+[
+    {
+        "question": "Welches Wappen geh\u00f6rt zum Bundesland Brandenburg?",
+        "choices": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "correct_choice": "a",
+        "option a": "1",
+        "option b": "2",
+        "option c": "3",
+        "option d": "4"
+    },
+    {
+        "question": "Welches ist ein Landkreis in Brandenburg?",
+        "choices": {
+            "a": "Prignitz",
+            "b": "Rhein-Sieg-Kreis",
+            "c": "Vogtlandkreis",
+            "d": "Amberg-Sulzbach"
+        },
+        "correct_choice": "a",
+        "option a": "Prignitz",
+        "option b": "Rhein-Sieg-Kreis",
+        "option c": "Vogtlandkreis",
+        "option d": "Amberg-Sulzbach"
+    },
+    {
+        "question": "F\u00fcr wie viele Jahre wird der Landtag in Brandenburg gew\u00e4hlt?",
+        "choices": {
+            "a": "3",
+            "b": "4",
+            "c": "5",
+            "d": "6"
+        },
+        "option a": "3",
+        "option b": "4",
+        "correct_choice": "c",
+        "option c": "5",
+        "option d": "6"
+    },
+    {
+        "question": "Ab welchem Alter darf man in Brandenburg bei Kommunalwahlen w\u00e4hlen?",
+        "choices": {
+            "a": "14",
+            "b": "18",
+            "c": "16",
+            "d": "20"
+        },
+        "option a": "14",
+        "option b": "18",
+        "correct_choice": "c",
+        "option c": "16",
+        "option d": "20"
+    },
+    {
+        "question": "Welche Farben hat die Landesflagge von Brandenburg?",
+        "choices": {
+            "a": "blau-wei\u00df-rot",
+            "b": "rot-wei\u00df",
+            "c": "gr\u00fcn-wei\u00df-rot",
+            "d": "schwarz-gelb"
+        },
+        "option a": "blau-wei\u00df-rot",
+        "correct_choice": "b",
+        "option b": "rot-wei\u00df",
+        "option c": "gr\u00fcn-wei\u00df-rot",
+        "option d": "schwarz-gelb"
+    },
+    {
+        "question": "Wo k\u00f6nnen Sie sich in Brandenburg \u00fcber politische Themen informieren?",
+        "choices": {
+            "a": "bei den Kirchen",
+            "b": "beim Ordnungsamt der Gemeinde",
+            "c": "bei der Landeszentrale f\u00fcr politische Bildung",
+            "d": "bei der Verbraucherzentrale"
+        },
+        "option a": "bei den Kirchen",
+        "option b": "beim Ordnungsamt der Gemeinde",
+        "correct_choice": "c",
+        "option c": "bei der Landeszentrale f\u00fcr politische Bildung",
+        "option d": "bei der Verbraucherzentrale"
+    },
+    {
+        "question": "Die Landeshauptstadt von Brandenburg hei\u00dft ...",
+        "choices": {
+            "a": "Potsdam.",
+            "b": "Cottbus.",
+            "c": "Brandenburg.",
+            "d": "Frankfurt/Oder."
+        },
+        "correct_choice": "a",
+        "option a": "Potsdam.",
+        "option b": "Cottbus.",
+        "option c": "Brandenburg.",
+        "option d": "Frankfurt/Oder."
+    },
+    {
+        "question": "Welches Bundesland ist Brandenburg?",
+        "choices": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "option a": "1",
+        "option b": "2",
+        "option c": "3",
+        "correct_choice": "d",
+        "option d": "4"
+    },
+    {
+        "question": "Wie nennt man den Regierungschef / die Regierungschefin in Brandenburg?",
+        "choices": {
+            "a": "Erster Minister / Erste Ministerin",
+            "b": "Premierminister / Premierministerin",
+            "c": "B\u00fcrgermeister / B\u00fcrgermeisterin",
+            "d": "Ministerpr\u00e4sident / Ministerpr\u00e4sidentin"
+        },
+        "option a": "Erster Minister / Erste Ministerin",
+        "option b": "Premierminister / Premierministerin",
+        "option c": "B\u00fcrgermeister / B\u00fcrgermeisterin",
+        "correct_choice": "d",
+        "option d": "Ministerpr\u00e4sident / Ministerpr\u00e4sidentin"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "question": "Welches Wappen geh\u00f6rt zum Bundesland Nordrhein-Westfalen?",
+        "choices": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "option a": "1",
+        "correct_choice": "b",
+        "option b": "2",
+        "option c": "3",
+        "option d": "4"
+    },
+    {
+        "question": "Welches ist ein Landkreis in Nordrhein-Westfalen?",
+        "choices": {
+            "a": "Ammerland",
+            "b": "Rhein-Sieg-Kreis",
+            "c": "Nordfriesland",
+            "d": "Vogtlandkreis"
+        },
+        "option a": "Ammerland",
+        "correct_choice": "b",
+        "option b": "Rhein-Sieg-Kreis",
+        "option c": "Nordfriesland",
+        "option d": "Vogtlandkreis"
+    },
+    {
+        "question": "F\u00fcr wie viele Jahre wird der Landtag in Nordrhein-Westfalen gew\u00e4hlt?",
+        "choices": {
+            "a": "3",
+            "b": "4",
+            "c": "5",
+            "d": "6"
+        },
+        "option a": "3",
+        "option b": "4",
+        "correct_choice": "c",
+        "option c": "5",
+        "option d": "6"
+    },
+    {
+        "question": "Ab welchem Alter darf man in Nordrhein-Westfalen bei Kommunalwahlen w\u00e4hlen?",
+        "choices": {
+            "a": "14",
+            "b": "16",
+            "c": "18",
+            "d": "20"
+        },
+        "option a": "14",
+        "correct_choice": "b",
+        "option b": "16",
+        "option c": "18",
+        "option d": "20"
+    },
+    {
+        "question": "Welche Farben hat die Landesflagge von Nordrhein-Westfalen?",
+        "choices": {
+            "a": "rot-wei\u00df",
+            "b": "gr\u00fcn-wei\u00df-rot",
+            "c": "schwarz-gold",
+            "d": "blau-wei\u00df-rot"
+        },
+        "option a": "rot-wei\u00df",
+        "correct_choice": "b",
+        "option b": "gr\u00fcn-wei\u00df-rot",
+        "option c": "schwarz-gold",
+        "option d": "blau-wei\u00df-rot"
+    },
+    {
+        "question": "Wo k\u00f6nnen Sie sich in Nordrhein-Westfalen \u00fcber politische Themen informieren?",
+        "choices": {
+            "a": "bei den Kirchen",
+            "b": "beim Ordnungsamt der Gemeinde",
+            "c": "bei der Verbraucherzentrale",
+            "d": "bei der Landeszentrale f\u00fcr politische Bildung"
+        },
+        "option a": "bei den Kirchen",
+        "option b": "beim Ordnungsamt der Gemeinde",
+        "option c": "bei der Verbraucherzentrale",
+        "correct_choice": "d",
+        "option d": "bei der Landeszentrale f\u00fcr politische Bildung"
+    },
+    {
+        "question": "Die Landeshauptstadt von Nordrhein-Westfalen hei\u00dft \u2026",
+        "choices": {
+            "a": "K\u00f6ln.",
+            "b": "Bonn.",
+            "c": "D\u00fcsseldorf.",
+            "d": "Dortmund."
+        },
+        "option a": "K\u00f6ln.",
+        "option b": "Bonn.",
+        "correct_choice": "c",
+        "option c": "D\u00fcsseldorf.",
+        "option d": "Dortmund."
+    },
+    {
+        "question": "Welches Bundesland ist Nordrhein-Westfalen?",
+        "choices": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "option a": "1",
+        "option b": "2",
+        "correct_choice": "c",
+        "option c": "3",
+        "option d": "4"
+    },
+    {
+        "question": "Wie nennt man den Regierungschef / die Regierungschefin in Nordrhein-Westfalen?",
+        "choices": {
+            "a": "Erster Minister / Erste Ministerin",
+            "b": "Premierminister / Premierministerin",
+            "c": "B\u00fcrgermeister / B\u00fcrgermeisterin",
+            "d": "Ministerpr\u00e4sident / Ministerpr\u00e4sidentin"
+        },
+        "option a": "Erster Minister / Erste Ministerin",
+        "option b": "Premierminister / Premierministerin",
+        "option c": "B\u00fcrgermeister / B\u00fcrgermeisterin",
+        "correct_choice": "d",
+        "option d": "Ministerpr\u00e4sident / Ministerpr\u00e4sidentin"
+    }
+]
