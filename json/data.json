@@ -7,10 +7,10 @@
             "c": "die Menschen das Wahlrecht haben.",
             "d": "hier Meinungsfreiheit gilt."
         },
-        "correct_choice": "d",
         "option a": "hier Religionsfreiheit gilt.",
         "option b": "die Menschen Steuern zahlen.",
         "option c": "die Menschen das Wahlrecht haben.",
+        "correct_choice": "d",
         "option d": "hier Meinungsfreiheit gilt."
     },
     {
@@ -21,8 +21,8 @@
             "c": "Politikunterricht teilnimmt.",
             "d": "Sprachunterricht teilnimmt."
         },
-        "correct_choice": "b",
         "option a": "Geschichtsunterricht teilnimmt.",
+        "correct_choice": "b",
         "option b": "Religionsunterricht teilnimmt.",
         "option c": "Politikunterricht teilnimmt.",
         "option d": "Sprachunterricht teilnimmt."
@@ -49,9 +49,9 @@
             "c": "Meinungsfreiheit",
             "d": "Selbstjustiz"
         },
-        "correct_choice": "c",
         "option a": "Waffenbesitz",
         "option b": "Faustrecht",
+        "correct_choice": "c",
         "option c": "Meinungsfreiheit",
         "option d": "Selbstjustiz"
     },
@@ -63,8 +63,8 @@
             "c": "Nur Personen, die noch nie im Gef\u00e4ngnis waren, d\u00fcrfen w\u00e4hlen.",
             "d": "Alle wahlberechtigten Personen m\u00fcssen w\u00e4hlen."
         },
-        "correct_choice": "b",
         "option a": "Man darf Geld annehmen, wenn man daf\u00fcr einen bestimmten Kandidaten / eine bestimmte Kandidatin w\u00e4hlt.",
+        "correct_choice": "b",
         "option b": "Der W\u00e4hler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.",
         "option c": "Nur Personen, die noch nie im Gef\u00e4ngnis waren, d\u00fcrfen w\u00e4hlen.",
         "option d": "Alle wahlberechtigten Personen m\u00fcssen w\u00e4hlen."
@@ -77,10 +77,10 @@
             "c": "Deutsches Gesetz",
             "d": "Grundgesetz"
         },
-        "correct_choice": "d",
         "option a": "Volksgesetz",
         "option b": "Bundesgesetz",
         "option c": "Deutsches Gesetz",
+        "correct_choice": "d",
         "option d": "Grundgesetz"
     },
     {
@@ -105,8 +105,8 @@
             "c": "Jeder Mensch darf seine Meinung sagen.",
             "d": "Alle sind vor dem Gesetz gleich."
         },
-        "correct_choice": "b",
         "option a": "Die W\u00fcrde des Menschen ist unantastbar.",
+        "correct_choice": "b",
         "option b": "Alle sollen gleich viel Geld haben.",
         "option c": "Jeder Mensch darf seine Meinung sagen.",
         "option d": "Alle sind vor dem Gesetz gleich."
@@ -119,9 +119,9 @@
             "c": "Asyl",
             "d": "Meinungsfreiheit"
         },
-        "correct_choice": "c",
         "option a": "Schutz der Familie",
         "option b": "Menschenw\u00fcrde",
+        "correct_choice": "c",
         "option c": "Asyl",
         "option d": "Meinungsfreiheit"
     },
@@ -133,10 +133,10 @@
             "c": "die Todesstrafe",
             "d": "die Geldstrafe"
         },
-        "correct_choice": "d",
         "option a": "die Pr\u00fcgelstrafe",
         "option b": "die Folter",
         "option c": "die Todesstrafe",
+        "correct_choice": "d",
         "option d": "die Geldstrafe"
     },
     {
@@ -161,9 +161,9 @@
             "c": "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.",
             "d": "Nein, denn nur der Bundesrat kann die Pressefreiheit abschaffen."
         },
-        "correct_choice": "c",
         "option a": "Ja, wenn mehr als die H\u00e4lfte der Abgeordneten im Bundestag daf\u00fcr sind.",
         "option b": "Ja, aber dazu m\u00fcssen zwei Drittel der Abgeordneten im Bundestag daf\u00fcr sein.",
+        "correct_choice": "c",
         "option c": "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.",
         "option d": "Nein, denn nur der Bundesrat kann die Pressefreiheit abschaffen."
     },
@@ -175,8 +175,8 @@
             "c": "die Fraktion mit den meisten Abgeordneten.",
             "d": "alle Parteien, die bei der letzten Wahl die 5%-H\u00fcrde erreichen konnten."
         },
-        "correct_choice": "b",
         "option a": "die regierenden Parteien.",
+        "correct_choice": "b",
         "option b": "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien geh\u00f6ren.",
         "option c": "die Fraktion mit den meisten Abgeordneten.",
         "option d": "alle Parteien, die bei der letzten Wahl die 5%-H\u00fcrde erreichen konnten."
@@ -189,8 +189,8 @@
             "c": "Nazi-Symbole tragen darf.",
             "d": "meine Meinung sagen darf, solange ich der Regierung nicht widerspreche."
         },
-        "correct_choice": "b",
         "option a": "Passanten auf der Stra\u00dfe beschimpfen darf.",
+        "correct_choice": "b",
         "option b": "meine Meinung in Leserbriefen \u00e4u\u00dfern kann.",
         "option c": "Nazi-Symbole tragen darf.",
         "option d": "meine Meinung sagen darf, solange ich der Regierung nicht widerspreche."
@@ -203,8 +203,8 @@
             "c": "freie Berufswahl",
             "d": "Arbeit im Ausland"
         },
-        "correct_choice": "b",
         "option a": "Milit\u00e4rdienst",
+        "correct_choice": "b",
         "option b": "Zwangsarbeit",
         "option c": "freie Berufswahl",
         "option d": "Arbeit im Ausland"
@@ -231,10 +231,10 @@
             "c": "Versammlungsfreiheit der Einwohner und Einwohnerinnen.",
             "d": "Ungleichbehandlung der B\u00fcrger und B\u00fcrgerinnen durch den Staat."
         },
-        "correct_choice": "d",
         "option a": "Meinungsfreiheit der Einwohner und Einwohnerinnen.",
         "option b": "Petitionen der B\u00fcrger und B\u00fcrgerinnen.",
         "option c": "Versammlungsfreiheit der Einwohner und Einwohnerinnen.",
+        "correct_choice": "d",
         "option d": "Ungleichbehandlung der B\u00fcrger und B\u00fcrgerinnen durch den Staat."
     },
     {
@@ -273,10 +273,10 @@
             "c": "gesetzestreu.",
             "d": "verfassungswidrig."
         },
-        "correct_choice": "d",
         "option a": "tolerant.",
         "option b": "rechtsstaatlich orientiert.",
         "option c": "gesetzestreu.",
+        "correct_choice": "d",
         "option d": "verfassungswidrig."
     },
     {
@@ -301,9 +301,9 @@
             "c": "Republik",
             "d": "F\u00fcrstentum"
         },
-        "correct_choice": "c",
         "option a": "Monarchie",
         "option b": "Diktatur",
+        "correct_choice": "c",
         "option c": "Republik",
         "option d": "F\u00fcrstentum"
     },
@@ -329,9 +329,9 @@
             "c": "16",
             "d": "17"
         },
-        "correct_choice": "c",
         "option a": "14",
         "option b": "15",
+        "correct_choice": "c",
         "option c": "16",
         "option d": "17"
     },
@@ -343,8 +343,8 @@
             "c": "Mecklenburg-Vorpommern",
             "d": "Sachsen-Anhalt"
         },
-        "correct_choice": "b",
         "option a": "Nordrhein-Westfalen",
+        "correct_choice": "b",
         "option b": "Elsass-Lothringen",
         "option c": "Mecklenburg-Vorpommern",
         "option d": "Sachsen-Anhalt"
@@ -357,8 +357,8 @@
             "c": "eine kapitalistische und soziale Monarchie.",
             "d": "ein sozialer und sozialistischer Bundesstaat."
         },
-        "correct_choice": "b",
         "option a": "eine kommunistische Republik.",
+        "correct_choice": "b",
         "option b": "ein demokratischer und sozialer Bundesstaat.",
         "option c": "eine kapitalistische und soziale Monarchie.",
         "option d": "ein sozialer und sozialistischer Bundesstaat."
@@ -371,8 +371,8 @@
             "c": "eine Diktatur.",
             "d": "eine Monarchie."
         },
-        "correct_choice": "b",
         "option a": "ein sozialistischer Staat.",
+        "correct_choice": "b",
         "option b": "ein Bundesstaat.",
         "option c": "eine Diktatur.",
         "option d": "eine Monarchie."
@@ -385,9 +385,9 @@
             "c": "das wahlberechtigte Volk",
             "d": "die Verwaltung"
         },
-        "correct_choice": "c",
         "option a": "das Milit\u00e4r",
         "option b": "die Wirtschaft",
+        "correct_choice": "c",
         "option c": "das wahlberechtigte Volk",
         "option d": "die Verwaltung"
     },
@@ -399,11 +399,25 @@
             "c": "B\u00e4r",
             "d": "Pferd"
         },
-        "correct_choice": "b",
         "option a": "L\u00f6we",
+        "correct_choice": "b",
         "option b": "Adler",
         "option c": "B\u00e4r",
         "option d": "Pferd"
+    },
+    {
+        "question": "Was ist kein Merkmal unserer Demokratie?",
+        "choices": {
+            "a": "regelm\u00e4\u00dfige Wahlen",
+            "b": "Pressezensur",
+            "c": "Meinungsfreiheit",
+            "d": "verschiedene Parteien"
+        },
+        "option a": "regelm\u00e4\u00dfige Wahlen",
+        "correct_choice": "b",
+        "option b": "Pressezensur",
+        "option c": "Meinungsfreiheit",
+        "option d": "verschiedene Parteien"
     },
     {
         "question": "Die Zusammenarbeit von Parteien zur Bildung einer Regierung nennt man in Deutschland \u2026",
@@ -413,8 +427,8 @@
             "c": "Ministerium.",
             "d": "Fraktion."
         },
-        "correct_choice": "b",
         "option a": "Einheit.",
+        "correct_choice": "b",
         "option b": "Koalition.",
         "option c": "Ministerium.",
         "option d": "Fraktion."
@@ -427,9 +441,9 @@
             "c": "Presse",
             "d": "Rechtsprechung"
         },
-        "correct_choice": "c",
         "option a": "Gesetzgebung",
         "option b": "Regierung",
+        "correct_choice": "c",
         "option c": "Presse",
         "option d": "Rechtsprechung"
     },
@@ -455,9 +469,9 @@
             "c": "eine Monarchie",
             "d": "ein Sozialstaat"
         },
-        "correct_choice": "c",
         "option a": "eine Demokratie",
         "option b": "ein Rechtsstaat",
+        "correct_choice": "c",
         "option c": "eine Monarchie",
         "option d": "ein Sozialstaat"
     },
@@ -469,8 +483,8 @@
             "c": "Spendengeldern",
             "d": "Vereinsbeitr\u00e4gen"
         },
-        "correct_choice": "b",
         "option a": "Kirchensteuern",
+        "correct_choice": "b",
         "option b": "Sozialabgaben",
         "option c": "Spendengeldern",
         "option d": "Vereinsbeitr\u00e4gen"
@@ -497,10 +511,10 @@
             "c": "Senator / Senatorin",
             "d": "Ministerpr\u00e4sident / Ministerpr\u00e4sidentin"
         },
-        "correct_choice": "d",
         "option a": "Erster Minister / Erste Ministerin",
         "option b": "Premierminister / Premierministerin",
         "option c": "Senator / Senatorin",
+        "correct_choice": "d",
         "option d": "Ministerpr\u00e4sident / Ministerpr\u00e4sidentin"
     },
     {
@@ -511,8 +525,8 @@
             "c": "Staatenbund.",
             "d": "Zentralstaat."
         },
-        "correct_choice": "b",
         "option a": "Staatenverbund.",
+        "correct_choice": "b",
         "option b": "Bundesstaat.",
         "option c": "Staatenbund.",
         "option d": "Zentralstaat."
@@ -525,10 +539,10 @@
             "c": "eine eigene Armee",
             "d": "eine eigene Regierung"
         },
-        "correct_choice": "d",
         "option a": "einen eigenen Au\u00dfenminister / eine eigene Au\u00dfenministerin",
         "option b": "eine eigene W\u00e4hrung",
         "option c": "eine eigene Armee",
+        "correct_choice": "d",
         "option d": "eine eigene Regierung"
     },
     {
@@ -539,8 +553,8 @@
             "c": "Freude sch\u00f6ner G\u00f6tterfunken \u2026",
             "d": "Deutschland einig Vaterland \u2026"
         },
-        "correct_choice": "b",
         "option a": "V\u00f6lker, h\u00f6rt die Signale \u2026",
+        "correct_choice": "b",
         "option b": "Einigkeit und Recht und Freiheit \u2026",
         "option c": "Freude sch\u00f6ner G\u00f6tterfunken \u2026",
         "option d": "Deutschland einig Vaterland \u2026"
@@ -567,8 +581,8 @@
             "c": "die Gerichte",
             "d": "die Polizei"
         },
-        "correct_choice": "b",
         "option a": "die Regierung",
+        "correct_choice": "b",
         "option b": "das Parlament",
         "option c": "die Gerichte",
         "option d": "die Polizei"
@@ -581,8 +595,8 @@
             "c": "wenn sie Kritik am Staatsoberhaupt \u00e4u\u00dfert",
             "d": "wenn ihr Programm eine neue Richtung vorschl\u00e4gt"
         },
-        "correct_choice": "b",
         "option a": "wenn ihr Wahlkampf zu teuer ist",
+        "correct_choice": "b",
         "option b": "wenn sie gegen die Verfassung k\u00e4mpft",
         "option c": "wenn sie Kritik am Staatsoberhaupt \u00e4u\u00dfert",
         "option d": "wenn ihr Programm eine neue Richtung vorschl\u00e4gt"
@@ -595,8 +609,8 @@
             "c": "Landtagsabgeordnete",
             "d": "Bundestagsabgeordnete"
         },
-        "correct_choice": "b",
         "option a": "Abgeordnete des EU-Parlaments",
+        "correct_choice": "b",
         "option b": "den Bundespr\u00e4sidenten / die Bundespr\u00e4sidentin",
         "option c": "Landtagsabgeordnete",
         "option d": "Bundestagsabgeordnete"
@@ -651,9 +665,9 @@
             "c": "die B\u00fcrgerversammlung",
             "d": "die Regierung"
         },
-        "correct_choice": "c",
         "option a": "der Bundesrat",
         "option b": "der Bundespr\u00e4sident / die Bundespr\u00e4sidentin",
+        "correct_choice": "c",
         "option c": "die B\u00fcrgerversammlung",
         "option d": "die Regierung"
     },
@@ -665,8 +679,8 @@
             "c": "das Familienministerium",
             "d": "die Universit\u00e4ten"
         },
-        "correct_choice": "b",
         "option a": "die Lehrer und Lehrerinnen",
+        "correct_choice": "b",
         "option b": "die Bundesl\u00e4nder",
         "option c": "das Familienministerium",
         "option d": "die Universit\u00e4ten"
@@ -679,8 +693,8 @@
             "c": "gelenkte Zentralwirtschaft.",
             "d": "Planwirtschaft."
         },
-        "correct_choice": "b",
         "option a": "freie Zentralwirtschaft.",
+        "correct_choice": "b",
         "option b": "soziale Marktwirtschaft.",
         "option c": "gelenkte Zentralwirtschaft.",
         "option d": "Planwirtschaft."
@@ -693,9 +707,9 @@
             "c": "Menschen von einer Privatpolizei ohne Grund verhaftet werden.",
             "d": "jemand ein Verbrechen begeht und deshalb verhaftet wird."
         },
-        "correct_choice": "c",
         "option a": "Menschen sich kritisch \u00fcber die Regierung \u00e4u\u00dfern k\u00f6nnen.",
         "option b": "B\u00fcrger friedlich demonstrieren gehen d\u00fcrfen.",
+        "correct_choice": "c",
         "option c": "Menschen von einer Privatpolizei ohne Grund verhaftet werden.",
         "option d": "jemand ein Verbrechen begeht und deshalb verhaftet wird."
     },
@@ -721,10 +735,10 @@
             "c": "Die B\u00fcrger und B\u00fcrgerinnen entscheiden \u00fcber Gesetze.",
             "d": "Der Staat muss die Gesetze einhalten."
         },
-        "correct_choice": "d",
         "option a": "Der Staat hat Recht.",
         "option b": "Es gibt nur rechte Parteien.",
         "option c": "Die B\u00fcrger und B\u00fcrgerinnen entscheiden \u00fcber Gesetze.",
+        "correct_choice": "d",
         "option d": "Der Staat muss die Gesetze einhalten."
     },
     {
@@ -735,10 +749,10 @@
             "c": "Exekutive",
             "d": "Direktive"
         },
-        "correct_choice": "d",
         "option a": "Legislative",
         "option b": "Judikative",
         "option c": "Exekutive",
+        "correct_choice": "d",
         "option d": "Direktive"
     },
     {
@@ -763,8 +777,8 @@
             "c": "Finanzamt",
             "d": "Ausw\u00e4rtiges Amt"
         },
-        "correct_choice": "b",
         "option a": "Pfarramt",
+        "correct_choice": "b",
         "option b": "Ordnungsamt",
         "option c": "Finanzamt",
         "option d": "Ausw\u00e4rtiges Amt"
@@ -777,9 +791,9 @@
             "c": "ein Abgeordneter / eine Abgeordnete der st\u00e4rksten Fraktion",
             "d": "ein ehemaliger Bundeskanzler / eine ehemalige Bundeskanzlerin"
         },
-        "correct_choice": "c",
         "option a": "der / die \u00e4lteste Abgeordnete im Parlament",
         "option b": "der Ministerpr\u00e4sident / die Ministerpr\u00e4sidentin des gr\u00f6\u00dften Bundeslandes",
+        "correct_choice": "c",
         "option c": "ein Abgeordneter / eine Abgeordnete der st\u00e4rksten Fraktion",
         "option d": "ein ehemaliger Bundeskanzler / eine ehemalige Bundeskanzlerin"
     },
@@ -791,8 +805,8 @@
             "c": "der Bundesratspr\u00e4sident / die Bundesratspr\u00e4sidentin",
             "d": "der Bundestagspr\u00e4sident / die Bundestagspr\u00e4sidentin"
         },
-        "correct_choice": "b",
         "option a": "der Pr\u00e4sident / die Pr\u00e4sidentin des Bundesverfassungsgerichtes",
+        "correct_choice": "b",
         "option b": "der Bundespr\u00e4sident / die Bundespr\u00e4sidentin",
         "option c": "der Bundesratspr\u00e4sident / die Bundesratspr\u00e4sidentin",
         "option d": "der Bundestagspr\u00e4sident / die Bundestagspr\u00e4sidentin"
@@ -805,11 +819,25 @@
             "c": "CSU und FDP",
             "d": "B\u00fcndnis 90/Die Gr\u00fcnen und SPD"
         },
-        "correct_choice": "b",
         "option a": "CDU und SSW",
+        "correct_choice": "b",
         "option b": "PDS und WASG",
         "option c": "CSU und FDP",
         "option d": "B\u00fcndnis 90/Die Gr\u00fcnen und SPD"
+    },
+    {
+        "question": "In Deutschland geh\u00f6ren der Bundestag und der Bundesrat zur \u2026",
+        "choices": {
+            "a": "Exekutive.",
+            "b": "Legislative.",
+            "c": "Direktive.",
+            "d": "Judikative."
+        },
+        "option a": "Exekutive.",
+        "correct_choice": "b",
+        "option b": "Legislative.",
+        "option c": "Direktive.",
+        "option d": "Judikative."
     },
     {
         "question": "Was bedeutet \u201eVolkssouver\u00e4nit\u00e4t\u201c?",
@@ -819,10 +847,10 @@
             "c": "Die Interessenverb\u00e4nde \u00fcben die Souver\u00e4nit\u00e4t zusammen mit der Regierung aus.",
             "d": "Die Staatsgewalt geht vom Volke aus."
         },
-        "correct_choice": "d",
         "option a": "Der K\u00f6nig / die K\u00f6nigin herrscht \u00fcber das Volk.",
         "option b": "Das Bundesverfassungsgericht steht \u00fcber der Verfassung.",
         "option c": "Die Interessenverb\u00e4nde \u00fcben die Souver\u00e4nit\u00e4t zusammen mit der Regierung aus.",
+        "correct_choice": "d",
         "option d": "Die Staatsgewalt geht vom Volke aus."
     },
     {
@@ -833,8 +861,8 @@
             "c": "Europawahl.",
             "d": "Bundestagswahl."
         },
-        "correct_choice": "b",
         "option a": "Kommunalwahl.",
+        "correct_choice": "b",
         "option b": "Landtagswahl.",
         "option c": "Europawahl.",
         "option d": "Bundestagswahl."
@@ -847,8 +875,8 @@
             "c": "das Finanzamt",
             "d": "die Ministerien"
         },
-        "correct_choice": "b",
         "option a": "die Polizei",
+        "correct_choice": "b",
         "option b": "die Gerichte",
         "option c": "das Finanzamt",
         "option d": "die Ministerien"
@@ -861,10 +889,10 @@
             "c": "16 Kantone.",
             "d": "Bund, L\u00e4nder und Kommunen."
         },
-        "correct_choice": "d",
         "option a": "vier Besatzungszonen.",
         "option b": "einen Oststaat und einen Weststaat.",
         "option c": "16 Kantone.",
+        "correct_choice": "d",
         "option d": "Bund, L\u00e4nder und Kommunen."
     },
     {
@@ -875,10 +903,10 @@
             "c": "den Bundeskanzler / die Bundeskanzlerin zu w\u00e4hlen.",
             "d": "das Bundeskabinett zu bilden."
         },
-        "correct_choice": "d",
         "option a": "Gesetze zu entwerfen.",
         "option b": "die Bundesregierung zu kontrollieren.",
         "option c": "den Bundeskanzler / die Bundeskanzlerin zu w\u00e4hlen.",
+        "correct_choice": "d",
         "option d": "das Bundeskabinett zu bilden."
     },
     {
@@ -889,10 +917,10 @@
             "c": "Johann Wolfgang von Goethe",
             "d": "Heinrich Hoffmann von Fallersleben"
         },
-        "correct_choice": "d",
         "option a": "Friedrich von Schiller",
         "option b": "Clemens Brentano",
         "option c": "Johann Wolfgang von Goethe",
+        "correct_choice": "d",
         "option d": "Heinrich Hoffmann von Fallersleben"
     },
     {
@@ -903,10 +931,10 @@
             "c": "Wirtschaftspolitik",
             "d": "Schulpolitik"
         },
-        "correct_choice": "d",
         "option a": "Verteidigungspolitik",
         "option b": "Au\u00dfenpolitik",
         "option c": "Wirtschaftspolitik",
+        "correct_choice": "d",
         "option d": "Schulpolitik"
     },
     {
@@ -917,10 +945,10 @@
             "c": "weil es in den Bundesl\u00e4ndern verschiedene Schulen gibt",
             "d": "weil es nach dem Grundgesetz seine Aufgabe ist"
         },
-        "correct_choice": "d",
         "option a": "weil es in Deutschland nur staatliche Schulen gibt",
         "option b": "weil alle Sch\u00fcler und Sch\u00fclerinnen einen Schulabschluss haben m\u00fcssen",
         "option c": "weil es in den Bundesl\u00e4ndern verschiedene Schulen gibt",
+        "correct_choice": "d",
         "option d": "weil es nach dem Grundgesetz seine Aufgabe ist"
     },
     {
@@ -931,9 +959,9 @@
             "c": "Gemeinden",
             "d": "Bezirks\u00e4mter"
         },
-        "correct_choice": "c",
         "option a": "Stadtr\u00e4te",
         "option b": "Landr\u00e4te",
+        "correct_choice": "c",
         "option c": "Gemeinden",
         "option d": "Bezirks\u00e4mter"
     },
@@ -945,10 +973,10 @@
             "c": "Er / Sie w\u00e4hlt die Minister / Ministerinnen aus.",
             "d": "Er / Sie schl\u00e4gt den Kanzler / die Kanzlerin zur Wahl vor."
         },
-        "correct_choice": "d",
         "option a": "Er / Sie f\u00fchrt die Regierungsgesch\u00e4fte.",
         "option b": "Er / Sie kontrolliert die Regierungspartei.",
         "option c": "Er / Sie w\u00e4hlt die Minister / Ministerinnen aus.",
+        "correct_choice": "d",
         "option d": "Er / Sie schl\u00e4gt den Kanzler / die Kanzlerin zur Wahl vor."
     },
     {
@@ -959,8 +987,8 @@
             "c": "auf Schloss Meseberg, dem G\u00e4stehaus der Bundesregierung, um Staatsg\u00e4ste zu empfangen.",
             "d": "auf Schloss Bellevue, dem Amtssitz des Bundespr\u00e4sidenten / der Bundespr\u00e4sidentin, um Staatsg\u00e4ste zu empfangen."
         },
-        "correct_choice": "b",
         "option a": "in Bonn, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
+        "correct_choice": "b",
         "option b": "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
         "option c": "auf Schloss Meseberg, dem G\u00e4stehaus der Bundesregierung, um Staatsg\u00e4ste zu empfangen.",
         "option d": "auf Schloss Bellevue, dem Amtssitz des Bundespr\u00e4sidenten / der Bundespr\u00e4sidentin, um Staatsg\u00e4ste zu empfangen."
@@ -973,10 +1001,10 @@
             "c": "Franziska Giffey",
             "d": "Olaf Scholz"
         },
-        "correct_choice": "d",
         "option a": "Gerhard Schr\u00f6der",
         "option b": "Angela Merkel",
         "option c": "Franziska Giffey",
+        "correct_choice": "d",
         "option d": "Olaf Scholz"
     },
     {
@@ -1001,9 +1029,9 @@
             "c": "Bundestag",
             "d": "Bundesgerichtshof"
         },
-        "correct_choice": "c",
         "option a": "Bundesversammlung",
         "option b": "Volkskammer",
+        "correct_choice": "c",
         "option c": "Bundestag",
         "option d": "Bundesgerichtshof"
     },
@@ -1029,10 +1057,10 @@
             "c": "Christlicher Deutscher Umweltschutz",
             "d": "Christlich Demokratische Union"
         },
-        "correct_choice": "d",
         "option a": "Christliche Deutsche Union",
         "option b": "Club Deutscher Unternehmer",
         "option c": "Christlicher Deutscher Umweltschutz",
+        "correct_choice": "d",
         "option d": "Christlich Demokratische Union"
     },
     {
@@ -1043,10 +1071,10 @@
             "c": "eine deutsche B\u00fcrgerinitiative",
             "d": "die deutsche Armee"
         },
-        "correct_choice": "d",
         "option a": "die deutsche Polizei",
         "option b": "ein deutscher Hafen",
         "option c": "eine deutsche B\u00fcrgerinitiative",
+        "correct_choice": "d",
         "option d": "die deutsche Armee"
     },
     {
@@ -1057,9 +1085,9 @@
             "c": "Sozialdemokratische Partei Deutschlands",
             "d": "Sozialgerechte Partei Deutschlands"
         },
-        "correct_choice": "c",
         "option a": "Sozialistische Partei Deutschlands",
         "option b": "Sozialpolitische Partei Deutschlands",
+        "correct_choice": "c",
         "option c": "Sozialdemokratische Partei Deutschlands",
         "option d": "Sozialgerechte Partei Deutschlands"
     },
@@ -1071,10 +1099,10 @@
             "c": "F\u00fchrende Demokratische Partei",
             "d": "Freie Demokratische Partei"
         },
-        "correct_choice": "d",
         "option a": "Friedliche Demonstrative Partei",
         "option b": "Freie Deutschland Partei",
         "option c": "F\u00fchrende Demokratische Partei",
+        "correct_choice": "d",
         "option d": "Freie Demokratische Partei"
     },
     {
@@ -1085,9 +1113,9 @@
             "c": "Bundesverfassungsgericht",
             "d": "Verwaltungsgericht"
         },
-        "correct_choice": "c",
         "option a": "Oberlandesgericht",
         "option b": "Amtsgericht",
+        "correct_choice": "c",
         "option c": "Bundesverfassungsgericht",
         "option d": "Verwaltungsgericht"
     },
@@ -1099,10 +1127,10 @@
             "c": "das Volk",
             "d": "der Bundestag"
         },
-        "correct_choice": "d",
         "option a": "der Bundesrat",
         "option b": "die Bundesversammlung",
         "option c": "das Volk",
+        "correct_choice": "d",
         "option d": "der Bundestag"
     },
     {
@@ -1113,9 +1141,9 @@
             "c": "der Bundeskanzler / die Bundeskanzlerin",
             "d": "der Bundesratspr\u00e4sident / die Bundesratspr\u00e4sidentin"
         },
-        "correct_choice": "c",
         "option a": "der Bundestagspr\u00e4sident / die Bundestagspr\u00e4sidentin",
         "option b": "der Bundespr\u00e4sident / die Bundespr\u00e4sidentin",
+        "correct_choice": "c",
         "option c": "der Bundeskanzler / die Bundeskanzlerin",
         "option d": "der Bundesratspr\u00e4sident / die Bundesratspr\u00e4sidentin"
     },
@@ -1127,9 +1155,9 @@
             "c": "der Bundestag",
             "d": "die Bundesregierung"
         },
-        "correct_choice": "c",
         "option a": "das Volk",
         "option b": "die Bundesversammlung",
+        "correct_choice": "c",
         "option c": "der Bundestag",
         "option d": "die Bundesregierung"
     },
@@ -1141,9 +1169,9 @@
             "c": "repr\u00e4sentiert das Land.",
             "d": "\u00fcberwacht die Einhaltung der Gesetze."
         },
-        "correct_choice": "c",
         "option a": "regiert das Land.",
         "option b": "entwirft die Gesetze.",
+        "correct_choice": "c",
         "option c": "repr\u00e4sentiert das Land.",
         "option d": "\u00fcberwacht die Einhaltung der Gesetze."
     },
@@ -1155,9 +1183,9 @@
             "c": "die Regierungsvertreter der Bundesl\u00e4nder",
             "d": "die Parteimitglieder"
         },
-        "correct_choice": "c",
         "option a": "die Abgeordneten des Bundestages",
         "option b": "die Minister und Ministerinnen der Bundesregierung",
+        "correct_choice": "c",
         "option c": "die Regierungsvertreter der Bundesl\u00e4nder",
         "option d": "die Parteimitglieder"
     },
@@ -1183,8 +1211,8 @@
             "c": "der Bundesratspr\u00e4sident / die Bundesratspr\u00e4sidentin",
             "d": "der Bundestagspr\u00e4sident / die Bundestagspr\u00e4sidentin"
         },
-        "correct_choice": "b",
         "option a": "der Bundeskanzler / die Bundeskanzlerin",
+        "correct_choice": "b",
         "option b": "der Bundespr\u00e4sident / die Bundespr\u00e4sidentin",
         "option c": "der Bundesratspr\u00e4sident / die Bundesratspr\u00e4sidentin",
         "option d": "der Bundestagspr\u00e4sident / die Bundestagspr\u00e4sidentin"
@@ -1211,11 +1239,25 @@
             "c": "Fraktion",
             "d": "Opposition"
         },
-        "correct_choice": "c",
         "option a": "Verband",
         "option b": "\u00c4ltestenrat",
+        "correct_choice": "c",
         "option c": "Fraktion",
         "option d": "Opposition"
+    },
+    {
+        "question": "Die deutschen Bundesl\u00e4nder wirken an der Gesetzgebung des Bundes mit durch \u2026",
+        "choices": {
+            "a": "den Bundesrat.",
+            "b": "die Bundesversammlung.",
+            "c": "den Bundestag.",
+            "d": "die Bundesregierung."
+        },
+        "correct_choice": "a",
+        "option a": "den Bundesrat.",
+        "option b": "die Bundesversammlung.",
+        "option c": "den Bundestag.",
+        "option d": "die Bundesregierung."
     },
     {
         "question": "In Deutschland kann ein Regierungswechsel in einem Bundesland Auswirkungen auf die Bundespolitik haben. Das Regieren wird \u2026",
@@ -1225,9 +1267,9 @@
             "c": "schwieriger, wenn dadurch die Mehrheit im Bundesrat ver\u00e4ndert wird.",
             "d": "leichter, wenn es sich um ein reiches Bundesland handelt."
         },
-        "correct_choice": "c",
         "option a": "schwieriger, wenn sich dadurch die Mehrheit im Bundestag \u00e4ndert.",
         "option b": "leichter, wenn dadurch neue Parteien in den Bundesrat kommen.",
+        "correct_choice": "c",
         "option c": "schwieriger, wenn dadurch die Mehrheit im Bundesrat ver\u00e4ndert wird.",
         "option d": "leichter, wenn es sich um ein reiches Bundesland handelt."
     },
@@ -1239,10 +1281,10 @@
             "c": "Christlich Sozialer Unternehmerverband",
             "d": "Christlich Soziale Union"
         },
-        "correct_choice": "d",
         "option a": "Christlich Sichere Union",
         "option b": "Christlich S\u00fcddeutsche Union",
         "option c": "Christlich Sozialer Unternehmerverband",
+        "correct_choice": "d",
         "option d": "Christlich Soziale Union"
     },
     {
@@ -1267,8 +1309,8 @@
             "c": "21",
             "d": "23"
         },
-        "correct_choice": "b",
         "option a": "16",
+        "correct_choice": "b",
         "option b": "18",
         "option c": "21",
         "option d": "23"
@@ -1281,8 +1323,8 @@
             "c": "Schweigepflicht",
             "d": "Religionspflicht"
         },
-        "correct_choice": "b",
         "option a": "Wahlpflicht",
+        "correct_choice": "b",
         "option b": "Schulpflicht",
         "option c": "Schweigepflicht",
         "option d": "Religionspflicht"
@@ -1295,8 +1337,8 @@
             "c": "einen Sozialversicherungsausweis",
             "d": "einen F\u00fchrerschein"
         },
-        "correct_choice": "b",
         "option a": "einen Reisepass",
+        "correct_choice": "b",
         "option b": "einen Personalausweis",
         "option c": "einen Sozialversicherungsausweis",
         "option d": "einen F\u00fchrerschein"
@@ -1351,8 +1393,8 @@
             "c": "die Arbeitslosenversicherung",
             "d": "die Pflegeversicherung"
         },
-        "correct_choice": "b",
         "option a": "die gesetzliche Rentenversicherung",
+        "correct_choice": "b",
         "option b": "die Lebensversicherung",
         "option c": "die Arbeitslosenversicherung",
         "option d": "die Pflegeversicherung"
@@ -1365,8 +1407,8 @@
             "c": "Rentner und Rentnerinnen.",
             "d": "Arbeitgeber und Arbeitgeberinnen."
         },
-        "correct_choice": "b",
         "option a": "Jugendlichen.",
+        "correct_choice": "b",
         "option b": "Arbeitnehmer und Arbeitnehmerinnen.",
         "option c": "Rentner und Rentnerinnen.",
         "option d": "Arbeitgeber und Arbeitgeberinnen."
@@ -1379,8 +1421,8 @@
             "c": "Vaterl\u00e4ndischen Verdienstorden.",
             "d": "Ehrentitel \u201eHeld der Deutschen Demokratischen Republik\u201c."
         },
-        "correct_choice": "b",
         "option a": "Bundesadler.",
+        "correct_choice": "b",
         "option b": "Bundesverdienstkreuz.",
         "option c": "Vaterl\u00e4ndischen Verdienstorden.",
         "option d": "Ehrentitel \u201eHeld der Deutschen Demokratischen Republik\u201c."
@@ -1393,8 +1435,8 @@
             "c": "von CSU, Die LINKE und B\u00fcndnis 90/Die Gr\u00fcnen in einer Regierung",
             "d": "der Bundestagsfraktionen von CDU und SPD"
         },
-        "correct_choice": "b",
         "option a": "der Bundestagsfraktionen von CDU und CSU",
+        "correct_choice": "b",
         "option b": "von SPD, FDP und B\u00fcndnis 90/Die Gr\u00fcnen in einer Regierung",
         "option c": "von CSU, Die LINKE und B\u00fcndnis 90/Die Gr\u00fcnen in einer Regierung",
         "option d": "der Bundestagsfraktionen von CDU und SPD"
@@ -1407,10 +1449,10 @@
             "c": "Die Frau erledigt private Sachen w\u00e4hrend der Arbeitszeit.",
             "d": "Die Frau bekommt ein Kind und ihr Chef wei\u00df das."
         },
-        "correct_choice": "d",
         "option a": "Die Frau ist lange krank und arbeitsunf\u00e4hig.",
         "option b": "Die Frau kam oft zu sp\u00e4t zur Arbeit.",
         "option c": "Die Frau erledigt private Sachen w\u00e4hrend der Arbeitszeit.",
+        "correct_choice": "d",
         "option d": "Die Frau bekommt ein Kind und ihr Chef wei\u00df das."
     },
     {
@@ -1421,10 +1463,10 @@
             "c": "Sie geben Zwischenergebnisse an die Medien weiter.",
             "d": "Sie z\u00e4hlen die Stimmen nach dem Ende der Wahl."
         },
-        "correct_choice": "d",
         "option a": "Sie helfen alten Menschen bei der Stimmabgabe in der Wahlkabine.",
         "option b": "Sie schreiben die Wahlbenachrichtigungen vor der Wahl.",
         "option c": "Sie geben Zwischenergebnisse an die Medien weiter.",
+        "correct_choice": "d",
         "option d": "Sie z\u00e4hlen die Stimmen nach dem Ende der Wahl."
     },
     {
@@ -1435,10 +1477,10 @@
             "c": "Sie geben Zwischenergebnisse an Journalisten weiter.",
             "d": "Sie z\u00e4hlen die Stimmen nach dem Ende der Wahl."
         },
-        "correct_choice": "d",
         "option a": "Sie helfen Kindern und alten Menschen beim W\u00e4hlen.",
         "option b": "Sie schreiben Karten und Briefe mit der Angabe des Wahllokals.",
         "option c": "Sie geben Zwischenergebnisse an Journalisten weiter.",
+        "correct_choice": "d",
         "option d": "Sie z\u00e4hlen die Stimmen nach dem Ende der Wahl."
     },
     {
@@ -1449,8 +1491,8 @@
             "c": "6 Jahre",
             "d": "8 Jahre"
         },
-        "correct_choice": "b",
         "option a": "2 Jahre",
+        "correct_choice": "b",
         "option b": "4 Jahre",
         "option c": "6 Jahre",
         "option d": "8 Jahre"
@@ -1463,8 +1505,8 @@
             "c": "seit mindestens 3 Jahren in der Bundesrepublik Deutschland lebt.",
             "d": "B\u00fcrger / B\u00fcrgerin der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist."
         },
-        "correct_choice": "b",
         "option a": "in der Bundesrepublik Deutschland wohnt und w\u00e4hlen m\u00f6chte.",
+        "correct_choice": "b",
         "option b": "B\u00fcrger / B\u00fcrgerin der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.",
         "option c": "seit mindestens 3 Jahren in der Bundesrepublik Deutschland lebt.",
         "option d": "B\u00fcrger / B\u00fcrgerin der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist."
@@ -1477,8 +1519,8 @@
             "c": "alle f\u00fcnf Jahre",
             "d": "alle sechs Jahre"
         },
-        "correct_choice": "b",
         "option a": "alle drei Jahre",
+        "correct_choice": "b",
         "option b": "alle vier Jahre",
         "option c": "alle f\u00fcnf Jahre",
         "option d": "alle sechs Jahre"
@@ -1491,9 +1533,9 @@
             "c": "4 Jahre",
             "d": "5 Jahre"
         },
-        "correct_choice": "c",
         "option a": "2 Jahre",
         "option b": "3 Jahre",
+        "correct_choice": "c",
         "option c": "4 Jahre",
         "option d": "5 Jahre"
     },
@@ -1519,8 +1561,8 @@
             "c": "berufsbezogen.",
             "d": "geschlechtsabh\u00e4ngig."
         },
-        "correct_choice": "b",
         "option a": "speziell.",
+        "correct_choice": "b",
         "option b": "geheim.",
         "option c": "berufsbezogen.",
         "option d": "geschlechtsabh\u00e4ngig."
@@ -1547,8 +1589,8 @@
             "c": "ein Zwang.",
             "d": "eine Last."
         },
-        "correct_choice": "b",
         "option a": "eine Pflicht.",
+        "correct_choice": "b",
         "option b": "ein Recht.",
         "option c": "ein Zwang.",
         "option d": "eine Last."
@@ -1561,9 +1603,9 @@
             "c": "Man kann w\u00e4hlen.",
             "d": "Man muss zur Ausz\u00e4hlung der Stimmen gehen."
         },
-        "correct_choice": "c",
         "option a": "Man kann gew\u00e4hlt werden.",
         "option b": "Man muss w\u00e4hlen gehen.",
+        "correct_choice": "c",
         "option c": "Man kann w\u00e4hlen.",
         "option d": "Man muss zur Ausz\u00e4hlung der Stimmen gehen."
     },
@@ -1575,10 +1617,10 @@
             "c": "aktiver Wahlkampf.",
             "d": "aktives Wahlrecht."
         },
-        "correct_choice": "d",
         "option a": "aktive Wahlkampagne.",
         "option b": "aktives Wahlverfahren.",
         "option c": "aktiver Wahlkampf.",
+        "correct_choice": "d",
         "option d": "aktives Wahlrecht."
     },
     {
@@ -1589,9 +1631,9 @@
             "c": "5 %",
             "d": "6 %"
         },
-        "correct_choice": "c",
         "option a": "3 %",
         "option b": "4 %",
+        "correct_choice": "c",
         "option c": "5 %",
         "option d": "6 %"
     },
@@ -1603,10 +1645,10 @@
             "c": "Wer nicht w\u00e4hlt, verliert das Recht zu w\u00e4hlen.",
             "d": "Wer w\u00e4hlen darf, kann w\u00e4hlen."
         },
-        "correct_choice": "d",
         "option a": "Wer w\u00e4hlen darf, muss w\u00e4hlen.",
         "option b": "Alle die wollen, k\u00f6nnen w\u00e4hlen.",
         "option c": "Wer nicht w\u00e4hlt, verliert das Recht zu w\u00e4hlen.",
+        "correct_choice": "d",
         "option d": "Wer w\u00e4hlen darf, kann w\u00e4hlen."
     },
     {
@@ -1617,11 +1659,25 @@
             "c": "Jede Person kann ohne Zwang entscheiden, ob sie w\u00e4hlen m\u00f6chte und wen sie w\u00e4hlen m\u00f6chte.",
             "d": "Ich kann frei entscheiden, wo ich w\u00e4hlen gehen m\u00f6chte."
         },
-        "correct_choice": "c",
         "option a": "Alle verurteilten Straft\u00e4ter / Straft\u00e4terinnen d\u00fcrfen nicht w\u00e4hlen.",
         "option b": "Wenn ich w\u00e4hlen gehen m\u00f6chte, muss mein Arbeitgeber / meine Arbeitgeberin mir frei geben.",
+        "correct_choice": "c",
         "option c": "Jede Person kann ohne Zwang entscheiden, ob sie w\u00e4hlen m\u00f6chte und wen sie w\u00e4hlen m\u00f6chte.",
         "option d": "Ich kann frei entscheiden, wo ich w\u00e4hlen gehen m\u00f6chte."
+    },
+    {
+        "question": "Das Wahlsystem in Deutschland ist ein \u2026",
+        "choices": {
+            "a": "Zensuswahlrecht.",
+            "b": "Dreiklassenwahlrecht.",
+            "c": "Mehrheits- und Verh\u00e4ltniswahlrecht.",
+            "d": "allgemeines M\u00e4nnerwahlrecht."
+        },
+        "option a": "Zensuswahlrecht.",
+        "option b": "Dreiklassenwahlrecht.",
+        "correct_choice": "c",
+        "option c": "Mehrheits- und Verh\u00e4ltniswahlrecht.",
+        "option d": "allgemeines M\u00e4nnerwahlrecht."
     },
     {
         "question": "Eine Partei m\u00f6chte in den Deutschen Bundestag. Sie muss aber einen Mindestanteil an W\u00e4hlerstimmen haben. Das hei\u00dft \u2026",
@@ -1659,9 +1715,9 @@
             "c": "Mindestanteil an W\u00e4hlerstimmen, um ins Parlament zu kommen",
             "d": "Anwesenheitskontrolle im Bundesrat f\u00fcr Abstimmungen"
         },
-        "correct_choice": "c",
         "option a": "Abstimmungsregelung im Bundestag f\u00fcr kleine Parteien",
         "option b": "Anwesenheitskontrolle im Bundestag f\u00fcr Abstimmungen",
+        "correct_choice": "c",
         "option c": "Mindestanteil an W\u00e4hlerstimmen, um ins Parlament zu kommen",
         "option d": "Anwesenheitskontrolle im Bundesrat f\u00fcr Abstimmungen"
     },
@@ -1673,9 +1729,9 @@
             "c": "des Parlaments f\u00fcr Deutschland.",
             "d": "des Bundespr\u00e4sidenten / der Bundespr\u00e4sidentin."
         },
-        "correct_choice": "c",
         "option a": "des Bundeskanzlers / der Bundeskanzlerin.",
         "option b": "der Parlamente der L\u00e4nder.",
+        "correct_choice": "c",
         "option c": "des Parlaments f\u00fcr Deutschland.",
         "option d": "des Bundespr\u00e4sidenten / der Bundespr\u00e4sidentin."
     },
@@ -1687,8 +1743,8 @@
             "c": "im Land bestehende Gesetze beizubehalten.",
             "d": "den Armen mehr Macht zu geben."
         },
-        "correct_choice": "b",
         "option a": "die B\u00fcrger und B\u00fcrgerinnen zu zwingen, ihre Stimme abzugeben.",
+        "correct_choice": "b",
         "option b": "nach dem Willen der W\u00e4hlermehrheit den Wechsel der Regierung zu erm\u00f6glichen.",
         "option c": "im Land bestehende Gesetze beizubehalten.",
         "option d": "den Armen mehr Macht zu geben."
@@ -1715,9 +1771,9 @@
             "c": "viele kleine Parteien die Regierungsbildung erschweren.",
             "d": "die kleinen Parteien nicht so viel Geld haben, um die Politiker und Politikerinnen zu bezahlen."
         },
-        "correct_choice": "c",
         "option a": "die Programme von vielen kleinen Parteien viele Gemeinsamkeiten haben.",
         "option b": "die B\u00fcrger und B\u00fcrgerinnen bei vielen kleinen Parteien die Orientierung verlieren k\u00f6nnen.",
+        "correct_choice": "c",
         "option c": "viele kleine Parteien die Regierungsbildung erschweren.",
         "option d": "die kleinen Parteien nicht so viel Geld haben, um die Politiker und Politikerinnen zu bezahlen."
     },
@@ -1743,9 +1799,9 @@
             "c": "der Bundestag.",
             "d": "der Bundespr\u00e4sident / die Bundespr\u00e4sidentin."
         },
-        "correct_choice": "c",
         "option a": "der Bundeskanzler / die Bundeskanzlerin.",
         "option b": "der Ministerpr\u00e4sident / die Ministerpr\u00e4sidentin eines Bundeslandes.",
+        "correct_choice": "c",
         "option c": "der Bundestag.",
         "option d": "der Bundespr\u00e4sident / die Bundespr\u00e4sidentin."
     },
@@ -1771,9 +1827,9 @@
             "c": "das Oberhaupt einer Gemeinde.",
             "d": "der / die Vorsitzende einer Partei."
         },
-        "correct_choice": "c",
         "option a": "der Leiter / die Leiterin einer Schule.",
         "option b": "der Chef / die Chefin einer Bank.",
+        "correct_choice": "c",
         "option c": "das Oberhaupt einer Gemeinde.",
         "option d": "der / die Vorsitzende einer Partei."
     },
@@ -1785,8 +1841,8 @@
             "c": "Sie arbeiten in der Bundesregierung.",
             "d": "Sie arbeiten in einem Krankenhaus und verdienen dabei Geld."
         },
-        "correct_choice": "b",
         "option a": "Sie arbeiten als Soldaten / Soldatinnen.",
+        "correct_choice": "b",
         "option b": "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verb\u00e4nden.",
         "option c": "Sie arbeiten in der Bundesregierung.",
         "option d": "Sie arbeiten in einem Krankenhaus und verdienen dabei Geld."
@@ -1799,8 +1855,8 @@
             "c": "Man kann am Wahltag telefonisch seine Stimme abgeben.",
             "d": "Kinder ab dem Alter von 14 Jahren d\u00fcrfen w\u00e4hlen."
         },
-        "correct_choice": "b",
         "option a": "Der Ehemann w\u00e4hlt f\u00fcr seine Frau mit.",
+        "correct_choice": "b",
         "option b": "Man kann durch Briefwahl seine Stimme abgeben.",
         "option c": "Man kann am Wahltag telefonisch seine Stimme abgeben.",
         "option d": "Kinder ab dem Alter von 14 Jahren d\u00fcrfen w\u00e4hlen."
@@ -1827,10 +1883,10 @@
             "c": "Selbst\u00e4ndige",
             "d": "Arbeitnehmer und Arbeitnehmerinnen"
         },
-        "correct_choice": "d",
         "option a": "gro\u00dfe Unternehmen",
         "option b": "kleine Unternehmen",
         "option c": "Selbst\u00e4ndige",
+        "correct_choice": "d",
         "option d": "Arbeitnehmer und Arbeitnehmerinnen"
     },
     {
@@ -1841,8 +1897,8 @@
             "c": "Problemen mit den Nachbarn / Nachbarinnen.",
             "d": "Schwierigkeiten nach einem Verkehrsunfall."
         },
-        "correct_choice": "b",
         "option a": "falscher Nebenkostenabrechnung.",
+        "correct_choice": "b",
         "option b": "ungerechtfertigter K\u00fcndigung durch Ihren Chef / Ihre Chefin.",
         "option c": "Problemen mit den Nachbarn / Nachbarinnen.",
         "option d": "Schwierigkeiten nach einem Verkehrsunfall."
@@ -1855,9 +1911,9 @@
             "c": "das Arbeitsgericht",
             "d": "das Amtsgericht"
         },
-        "correct_choice": "c",
         "option a": "das Familiengericht",
         "option b": "das Strafgericht",
+        "correct_choice": "c",
         "option c": "das Arbeitsgericht",
         "option d": "das Amtsgericht"
     },
@@ -1869,9 +1925,9 @@
             "c": "K\u00fcndigungsschutzklage erheben",
             "d": "den Arbeitgeber / die Arbeitgeberin bei der Polizei anzeigen"
         },
-        "correct_choice": "c",
         "option a": "weiter arbeiten und freundlich zum Chef / zur Chefin sein",
         "option b": "ein Mahnverfahren gegen den Arbeitgeber / die Arbeitgeberin f\u00fchren",
+        "correct_choice": "c",
         "option c": "K\u00fcndigungsschutzklage erheben",
         "option d": "den Arbeitgeber / die Arbeitgeberin bei der Polizei anzeigen"
     },
@@ -1883,8 +1939,8 @@
             "c": "eine andere Meinung als die der Regierung vertritt.",
             "d": "sein Auto falsch geparkt hat und es abgeschleppt wird."
         },
-        "correct_choice": "b",
         "option a": "zu einer anderen Religion \u00fcbertritt.",
+        "correct_choice": "b",
         "option b": "eine Straftat begangen hat und angeklagt wird.",
         "option c": "eine andere Meinung als die der Regierung vertritt.",
         "option d": "sein Auto falsch geparkt hat und es abgeschleppt wird."
@@ -1925,8 +1981,8 @@
             "c": "\u00e4ndert Gesetze.",
             "d": "betreut Jugendliche vor Gericht."
         },
-        "correct_choice": "b",
         "option a": "vertritt B\u00fcrger und B\u00fcrgerinnen vor einem Gericht.",
+        "correct_choice": "b",
         "option b": "arbeitet an einem Gericht und spricht Urteile.",
         "option c": "\u00e4ndert Gesetze.",
         "option d": "betreut Jugendliche vor Gericht."
@@ -1953,8 +2009,8 @@
             "c": "planenden Gewalt.",
             "d": "gesetzgebenden Gewalt."
         },
-        "correct_choice": "b",
         "option a": "vollziehenden Gewalt.",
+        "correct_choice": "b",
         "option b": "rechtsprechenden Gewalt.",
         "option c": "planenden Gewalt.",
         "option d": "gesetzgebenden Gewalt."
@@ -1981,10 +2037,10 @@
             "c": "Protokoll",
             "d": "Prozess"
         },
-        "correct_choice": "d",
         "option a": "Programm",
         "option b": "Prozedur",
         "option c": "Protokoll",
+        "correct_choice": "d",
         "option d": "Prozess"
     },
     {
@@ -1995,8 +2051,8 @@
             "c": "Pl\u00e4ne erstellen",
             "d": "Gesetze erlassen"
         },
-        "correct_choice": "b",
         "option a": "Deutschland regieren",
+        "correct_choice": "b",
         "option b": "Recht sprechen",
         "option c": "Pl\u00e4ne erstellen",
         "option d": "Gesetze erlassen"
@@ -2009,10 +2065,10 @@
             "c": "die Gesetze zu beschlie\u00dfen",
             "d": "die Einhaltung von Gesetzen zu \u00fcberwachen"
         },
-        "correct_choice": "d",
         "option a": "das Land zu verteidigen",
         "option b": "die B\u00fcrgerinnen und B\u00fcrger abzuh\u00f6ren",
         "option c": "die Gesetze zu beschlie\u00dfen",
+        "correct_choice": "d",
         "option d": "die Einhaltung von Gesetzen zu \u00fcberwachen"
     },
     {
@@ -2023,11 +2079,25 @@
             "c": "alle Personen, die seit mindestens 5 Jahren in Deutschland leben",
             "d": "nur Personen mit einem abgeschlossenen Jurastudium"
         },
-        "correct_choice": "b",
         "option a": "alle in Deutschland geborenen Einwohner / Einwohnerinnen \u00fcber 18 Jahre",
+        "correct_choice": "b",
         "option b": "alle deutschen Staatsangeh\u00f6rigen \u00e4lter als 24 und j\u00fcnger als 70 Jahre",
         "option c": "alle Personen, die seit mindestens 5 Jahren in Deutschland leben",
         "option d": "nur Personen mit einem abgeschlossenen Jurastudium"
+    },
+    {
+        "question": "Ein Gerichtssch\u00f6ffe / eine Gerichtssch\u00f6ffin in Deutschland ist \u2026",
+        "choices": {
+            "a": "der Stellvertreter / die Stellvertreterin des Stadtoberhaupts.",
+            "b": "ein ehrenamtlicher Richter / eine ehrenamtliche Richterin.",
+            "c": "ein Mitglied eines Gemeinderats.",
+            "d": "eine Person, die Jura studiert hat."
+        },
+        "option a": "der Stellvertreter / die Stellvertreterin des Stadtoberhaupts.",
+        "correct_choice": "b",
+        "option b": "ein ehrenamtlicher Richter / eine ehrenamtliche Richterin.",
+        "option c": "ein Mitglied eines Gemeinderats.",
+        "option d": "eine Person, die Jura studiert hat."
     },
     {
         "question": "Wer baute die Mauer in Berlin?",
@@ -2037,9 +2107,9 @@
             "c": "die DDR",
             "d": "die USA"
         },
-        "correct_choice": "c",
         "option a": "Gro\u00dfbritannien",
         "option b": "die Bundesrepublik Deutschland",
+        "correct_choice": "c",
         "option c": "die DDR",
         "option d": "die USA"
     },
@@ -2051,9 +2121,9 @@
             "c": "1933 bis 1945",
             "d": "1945 bis 1989"
         },
-        "correct_choice": "c",
         "option a": "1918 bis 1923",
         "option b": "1932 bis 1950",
+        "correct_choice": "c",
         "option c": "1933 bis 1945",
         "option d": "1945 bis 1989"
     },
@@ -2065,10 +2135,10 @@
             "c": "Wahl von Konrad Adenauer zum Bundeskanzler",
             "d": "Ende des Zweiten Weltkriegs in Europa"
         },
-        "correct_choice": "d",
         "option a": "Tod Adolf Hitlers",
         "option b": "Beginn des Berliner Mauerbaus",
         "option c": "Wahl von Konrad Adenauer zum Bundeskanzler",
+        "correct_choice": "d",
         "option d": "Ende des Zweiten Weltkriegs in Europa"
     },
     {
@@ -2079,8 +2149,8 @@
             "c": "1949",
             "d": "1961"
         },
-        "correct_choice": "b",
         "option a": "1933",
+        "correct_choice": "b",
         "option b": "1945",
         "option c": "1949",
         "option d": "1961"
@@ -2093,9 +2163,9 @@
             "c": "1933 bis 1945",
             "d": "1949 bis 1963"
         },
-        "correct_choice": "c",
         "option a": "1888 bis 1918",
         "option b": "1921 bis 1934",
+        "correct_choice": "c",
         "option c": "1933 bis 1945",
         "option d": "1949 bis 1963"
     },
@@ -2107,9 +2177,9 @@
             "c": "1933",
             "d": "1936"
         },
-        "correct_choice": "c",
         "option a": "1923",
         "option b": "1927",
+        "correct_choice": "c",
         "option c": "1933",
         "option d": "1936"
     },
@@ -2163,8 +2233,8 @@
             "c": "der Vietnamkrieg",
             "d": "der Golfkrieg"
         },
-        "correct_choice": "b",
         "option a": "der Erste Weltkrieg",
+        "correct_choice": "b",
         "option b": "der Zweite Weltkrieg",
         "option c": "der Vietnamkrieg",
         "option d": "der Golfkrieg"
@@ -2191,10 +2261,10 @@
             "c": "den Aufbau der Wehrmacht.",
             "d": "das Attentat auf Hitler am 20. Juli 1944."
         },
-        "correct_choice": "d",
         "option a": "eine Goldmedaille bei den Olympischen Spielen 1936.",
         "option b": "den Bau des Reichstagsgeb\u00e4udes.",
         "option c": "den Aufbau der Wehrmacht.",
+        "correct_choice": "d",
         "option d": "das Attentat auf Hitler am 20. Juli 1944."
     },
     {
@@ -2205,9 +2275,9 @@
             "c": "1938",
             "d": "1945"
         },
-        "correct_choice": "c",
         "option a": "1925",
         "option b": "1930",
+        "correct_choice": "c",
         "option c": "1938",
         "option d": "1945"
     },
@@ -2219,9 +2289,9 @@
             "c": "J\u00fcdische Gesch\u00e4fte und Synagogen werden durch Nationalsozialisten und ihre Anh\u00e4nger zerst\u00f6rt.",
             "d": "Hitler wird Reichspr\u00e4sident und l\u00e4sst alle Parteien verbieten."
         },
-        "correct_choice": "c",
         "option a": "Mit dem Angriff auf Polen beginnt der Zweite Weltkrieg.",
         "option b": "Die Nationalsozialisten verlieren eine Wahl und l\u00f6sen den Reichstag auf.",
+        "correct_choice": "c",
         "option c": "J\u00fcdische Gesch\u00e4fte und Synagogen werden durch Nationalsozialisten und ihre Anh\u00e4nger zerst\u00f6rt.",
         "option d": "Hitler wird Reichspr\u00e4sident und l\u00e4sst alle Parteien verbieten."
     },
@@ -2261,10 +2331,10 @@
             "c": "USA, Sowjetunion, Spanien, Portugal",
             "d": "USA, Sowjetunion, Gro\u00dfbritannien, Frankreich"
         },
-        "correct_choice": "d",
         "option a": "Sowjetunion, Gro\u00dfbritannien, Polen, Schweden",
         "option b": "Frankreich, Sowjetunion, Italien, Japan",
         "option c": "USA, Sowjetunion, Spanien, Portugal",
+        "correct_choice": "d",
         "option d": "USA, Sowjetunion, Gro\u00dfbritannien, Frankreich"
     },
     {
@@ -2275,10 +2345,10 @@
             "c": "Frankreich",
             "d": "Japan"
         },
-        "correct_choice": "d",
         "option a": "USA",
         "option b": "Sowjetunion",
         "option c": "Frankreich",
+        "correct_choice": "d",
         "option d": "Japan"
     },
     {
@@ -2289,9 +2359,9 @@
             "c": "1949",
             "d": "1951"
         },
-        "correct_choice": "c",
         "option a": "1939",
         "option b": "1945",
+        "correct_choice": "c",
         "option c": "1949",
         "option d": "1951"
     },
@@ -2303,9 +2373,9 @@
             "c": "das Verbot von Parteien",
             "d": "den Schutz der Menschenw\u00fcrde"
         },
-        "correct_choice": "c",
         "option a": "das Recht zur freien Entfaltung der Pers\u00f6nlichkeit",
         "option b": "Pressefreiheit",
+        "correct_choice": "c",
         "option c": "das Verbot von Parteien",
         "option d": "den Schutz der Menschenw\u00fcrde"
     },
@@ -2317,10 +2387,10 @@
             "c": "richtet sich nach der Nachfrage im Ausland.",
             "d": "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt f\u00fcr einen sozialen Ausgleich."
         },
-        "correct_choice": "d",
         "option a": "steuert sich allein nach Angebot und Nachfrage.",
         "option b": "wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht ber\u00fccksichtigt.",
         "option c": "richtet sich nach der Nachfrage im Ausland.",
+        "correct_choice": "d",
         "option d": "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt f\u00fcr einen sozialen Ausgleich."
     },
     {
@@ -2331,10 +2401,10 @@
             "c": "britischen Besatzungszone.",
             "d": "sowjetischen Besatzungszone."
         },
-        "correct_choice": "d",
         "option a": "amerikanischen Besatzungszone.",
         "option b": "franz\u00f6sischen Besatzungszone.",
         "option c": "britischen Besatzungszone.",
+        "correct_choice": "d",
         "option d": "sowjetischen Besatzungszone."
     },
     {
@@ -2345,9 +2415,9 @@
             "c": "der Europ\u00e4ischen Union (EU).",
             "d": "des Warschauer Pakts."
         },
-        "correct_choice": "c",
         "option a": "des Nordatlantikpakts (NATO).",
         "option b": "der Vereinten Nationen (VN).",
+        "correct_choice": "c",
         "option c": "der Europ\u00e4ischen Union (EU).",
         "option d": "des Warschauer Pakts."
     },
@@ -2359,8 +2429,8 @@
             "c": "1953",
             "d": "1956"
         },
-        "correct_choice": "b",
         "option a": "1947",
+        "correct_choice": "b",
         "option b": "1949",
         "option c": "1953",
         "option d": "1956"
@@ -2373,8 +2443,8 @@
             "c": "5",
             "d": "6"
         },
-        "correct_choice": "b",
         "option a": "3",
+        "correct_choice": "b",
         "option b": "4",
         "option c": "5",
         "option d": "6"
@@ -2387,9 +2457,9 @@
             "c": "1=Gro\u00dfbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich",
             "d": "1=Gro\u00dfbritannien, 2=USA, 3=Sowjetunion, 4=Frankreich"
         },
-        "correct_choice": "c",
         "option a": "1=Gro\u00dfbritannien, 2=Sowjetunion, 3=Frankreich, 4=USA",
         "option b": "1=Sowjetunion, 2=Gro\u00dfbritannien, 3=USA, 4=Frankreich",
+        "correct_choice": "c",
         "option c": "1=Gro\u00dfbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich",
         "option d": "1=Gro\u00dfbritannien, 2=USA, 3=Sowjetunion, 4=Frankreich"
     },
@@ -2401,8 +2471,8 @@
             "c": "Dresden",
             "d": "Frankfurt/Oder"
         },
-        "correct_choice": "b",
         "option a": "M\u00fcnchen",
+        "correct_choice": "b",
         "option b": "Berlin",
         "option c": "Dresden",
         "option d": "Frankfurt/Oder"
@@ -2415,10 +2485,10 @@
             "c": "F\u00fcr Gro\u00dfbritannien war die Versorgung \u00fcber die Luftbr\u00fccke schneller.",
             "d": "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege."
         },
-        "correct_choice": "d",
         "option a": "F\u00fcr Frankreich war eine Versorgung der West-Berliner Bev\u00f6lkerung mit dem Flugzeug kosteng\u00fcnstiger.",
         "option b": "Die amerikanischen Soldaten / Soldatinnen hatten beim Landtransport Angst vor \u00dcberf\u00e4llen.",
         "option c": "F\u00fcr Gro\u00dfbritannien war die Versorgung \u00fcber die Luftbr\u00fccke schneller.",
+        "correct_choice": "d",
         "option d": "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege."
     },
     {
@@ -2429,11 +2499,25 @@
             "c": "mit dem R\u00fcckzug der Deutschen aus den besetzten Gebieten",
             "d": "durch eine Revolution in Deutschland"
         },
-        "correct_choice": "b",
         "option a": "mit dem Tod Adolf Hitlers",
+        "correct_choice": "b",
         "option b": "durch die bedingungslose Kapitulation Deutschlands",
         "option c": "mit dem R\u00fcckzug der Deutschen aus den besetzten Gebieten",
         "option d": "durch eine Revolution in Deutschland"
+    },
+    {
+        "question": "Der erste Bundeskanzler der Bundesrepublik Deutschland war \u2026",
+        "choices": {
+            "a": "Ludwig Erhard.",
+            "b": "Willy Brandt.",
+            "c": "Konrad Adenauer.",
+            "d": "Gerhard Schr\u00f6der."
+        },
+        "option a": "Ludwig Erhard.",
+        "option b": "Willy Brandt.",
+        "correct_choice": "c",
+        "option c": "Konrad Adenauer.",
+        "option d": "Gerhard Schr\u00f6der."
     },
     {
         "question": "Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen j\u00fcdischen Ghetto in Warschau ausdr\u00fccken?",
@@ -2443,8 +2527,8 @@
             "c": "Er zeigte seine Demut vor dem Warschauer Pakt.",
             "d": "Er sprach ein Gebet am Grab des Unbekannten Soldaten."
         },
-        "correct_choice": "b",
         "option a": "Er hat sich den ehemaligen Alliierten unterworfen.",
+        "correct_choice": "b",
         "option b": "Er bat Polen und die polnischen Juden um Vergebung.",
         "option c": "Er zeigte seine Demut vor dem Warschauer Pakt.",
         "option d": "Er sprach ein Gebet am Grab des Unbekannten Soldaten."
@@ -2471,8 +2555,8 @@
             "c": "70er Jahre",
             "d": "80er Jahre"
         },
-        "correct_choice": "b",
         "option a": "40er Jahre",
+        "correct_choice": "b",
         "option b": "50er Jahre",
         "option c": "70er Jahre",
         "option d": "80er Jahre"
@@ -2485,9 +2569,9 @@
             "c": "Darunter verstand man das Ende des Zweiten Weltkrieges und den Beginn des Wiederaufbaus.",
             "d": "Damit ist die Stunde gemeint, in der die Uhr von der Sommerzeit auf die Winterzeit umgestellt wird."
         },
-        "correct_choice": "c",
         "option a": "Damit wird die Zeit nach der Wende im Jahr 1989 bezeichnet.",
         "option b": "Damit wurde der Beginn des Zweiten Weltkrieges bezeichnet.",
+        "correct_choice": "c",
         "option c": "Darunter verstand man das Ende des Zweiten Weltkrieges und den Beginn des Wiederaufbaus.",
         "option d": "Damit ist die Stunde gemeint, in der die Uhr von der Sommerzeit auf die Winterzeit umgestellt wird."
     },
@@ -2513,8 +2597,8 @@
             "c": "20. Juli",
             "d": "9. November"
         },
-        "correct_choice": "b",
         "option a": "1. Mai",
+        "correct_choice": "b",
         "option b": "17. Juni",
         "option c": "20. Juli",
         "option d": "9. November"
@@ -2527,9 +2611,9 @@
             "c": "DDR",
             "d": "\u201eDrittes Reich\u201c"
         },
-        "correct_choice": "c",
         "option a": "Preu\u00dfen",
         "option b": "Bundesrepublik Deutschland",
+        "correct_choice": "c",
         "option c": "DDR",
         "option d": "\u201eDrittes Reich\u201c"
     },
@@ -2541,10 +2625,10 @@
             "c": "1959",
             "d": "1961"
         },
-        "correct_choice": "d",
         "option a": "1953",
         "option b": "1956",
         "option c": "1959",
+        "correct_choice": "d",
         "option d": "1961"
     },
     {
@@ -2555,9 +2639,9 @@
             "c": "1961",
             "d": "1990"
         },
-        "correct_choice": "c",
         "option a": "1919",
         "option b": "1933",
+        "correct_choice": "c",
         "option c": "1961",
         "option d": "1990"
     },
@@ -2569,10 +2653,10 @@
             "c": "Dritte Deutsche Republik",
             "d": "Deutsche Demokratische Republik"
         },
-        "correct_choice": "d",
         "option a": "Dritter Deutscher Rundfunk",
         "option b": "Die Deutsche Republik",
         "option c": "Dritte Deutsche Republik",
+        "correct_choice": "d",
         "option d": "Deutsche Demokratische Republik"
     },
     {
@@ -2583,8 +2667,8 @@
             "c": "1992",
             "d": "1995"
         },
-        "correct_choice": "b",
         "option a": "1987",
+        "correct_choice": "b",
         "option b": "1989",
         "option c": "1992",
         "option d": "1995"
@@ -2611,9 +2695,9 @@
             "c": "durch eine Mauer geteilt.",
             "d": "nur mit dem Flugzeug erreichbar."
         },
-        "correct_choice": "c",
         "option a": "ohne B\u00fcrgermeister.",
         "option b": "ein eigener Staat.",
+        "correct_choice": "c",
         "option c": "durch eine Mauer geteilt.",
         "option d": "nur mit dem Flugzeug erreichbar."
     },
@@ -2639,8 +2723,8 @@
             "c": "Nordrhein-Westfalen",
             "d": "Saarland"
         },
-        "correct_choice": "b",
         "option a": "Hessen",
+        "correct_choice": "b",
         "option b": "Sachsen-Anhalt",
         "option c": "Nordrhein-Westfalen",
         "option d": "Saarland"
@@ -2681,9 +2765,9 @@
             "c": "Sachsen",
             "d": "Baden-W\u00fcrttemberg"
         },
-        "correct_choice": "c",
         "option a": "Bayern",
         "option b": "Niedersachsen",
+        "correct_choice": "c",
         "option c": "Sachsen",
         "option d": "Baden-W\u00fcrttemberg"
     },
@@ -2695,8 +2779,8 @@
             "c": "eine regierende Partei.",
             "d": "das Ministerium f\u00fcr Volksbildung."
         },
-        "correct_choice": "b",
         "option a": "das Parlament.",
+        "correct_choice": "b",
         "option b": "das Ministerium f\u00fcr Staatssicherheit.",
         "option c": "eine regierende Partei.",
         "option d": "das Ministerium f\u00fcr Volksbildung."
@@ -2709,9 +2793,9 @@
             "c": "Mecklenburg-Vorpommern",
             "d": "Saarland"
         },
-        "correct_choice": "c",
         "option a": "Hessen",
         "option b": "Schleswig-Holstein",
+        "correct_choice": "c",
         "option c": "Mecklenburg-Vorpommern",
         "option d": "Saarland"
     },
@@ -2723,8 +2807,8 @@
             "c": "Bayern, Baden-W\u00fcrttemberg, Rheinland-Pfalz, Th\u00fcringen, Sachsen",
             "d": "Sachsen, Th\u00fcringen, Hessen, Niedersachsen, Brandenburg"
         },
-        "correct_choice": "b",
         "option a": "Niedersachsen, Nordrhein-Westfalen, Hessen, Schleswig-Holstein, Brandenburg",
+        "correct_choice": "b",
         "option b": "Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Th\u00fcringen",
         "option c": "Bayern, Baden-W\u00fcrttemberg, Rheinland-Pfalz, Th\u00fcringen, Sachsen",
         "option d": "Sachsen, Th\u00fcringen, Hessen, Niedersachsen, Brandenburg"
@@ -2737,8 +2821,8 @@
             "c": "zur NATO",
             "d": "zu den blockfreien Staaten"
         },
-        "correct_choice": "b",
         "option a": "zu den Westm\u00e4chten",
+        "correct_choice": "b",
         "option b": "zum Warschauer Pakt",
         "option c": "zur NATO",
         "option d": "zu den blockfreien Staaten"
@@ -2751,8 +2835,8 @@
             "c": "Angebot und Nachfrage",
             "d": "Kapitalismus"
         },
-        "correct_choice": "b",
         "option a": "Marktwirtschaft",
+        "correct_choice": "b",
         "option b": "Planwirtschaft",
         "option c": "Angebot und Nachfrage",
         "option d": "Kapitalismus"
@@ -2765,8 +2849,8 @@
             "c": "Die westlichen Bundesl\u00e4nder sind der DDR beigetreten.",
             "d": "Die DDR hat die Bundesrepublik Deutschland besetzt."
         },
-        "correct_choice": "b",
         "option a": "Die Bundesrepublik Deutschland hat die DDR besetzt.",
+        "correct_choice": "b",
         "option b": "Die heutigen f\u00fcnf \u00f6stlichen Bundesl\u00e4nder sind der Bundesrepublik Deutschland beigetreten.",
         "option c": "Die westlichen Bundesl\u00e4nder sind der DDR beigetreten.",
         "option d": "Die DDR hat die Bundesrepublik Deutschland besetzt."
@@ -2793,8 +2877,8 @@
             "c": "Am ersten Montag im Monat trafen sich in der Bundesrepublik Deutschland Demonstranten.",
             "d": "Montags demonstrierte man in der DDR gegen den Westen."
         },
-        "correct_choice": "b",
         "option a": "In der Bundesrepublik waren Demonstrationen nur am Montag erlaubt.",
+        "correct_choice": "b",
         "option b": "Montags waren Demonstrationen gegen das DDR-Regime.",
         "option c": "Am ersten Montag im Monat trafen sich in der Bundesrepublik Deutschland Demonstranten.",
         "option d": "Montags demonstrierte man in der DDR gegen den Westen."
@@ -2807,9 +2891,9 @@
             "c": "im Warschauer Pakt",
             "d": "im Europab\u00fcndnis"
         },
-        "correct_choice": "c",
         "option a": "in der NATO",
         "option b": "im Rheinbund",
+        "correct_choice": "c",
         "option c": "im Warschauer Pakt",
         "option d": "im Europab\u00fcndnis"
     },
@@ -2821,9 +2905,9 @@
             "c": "der Geheimdienst der DDR",
             "d": "ein deutscher Sportverein w\u00e4hrend des Zweiten Weltkrieges"
         },
-        "correct_choice": "c",
         "option a": "der Geheimdienst im \u201eDritten Reich\u201c",
         "option b": "eine ber\u00fchmte deutsche Gedenkst\u00e4tte",
+        "correct_choice": "c",
         "option c": "der Geheimdienst der DDR",
         "option d": "ein deutscher Sportverein w\u00e4hrend des Zweiten Weltkrieges"
     },
@@ -2835,11 +2919,25 @@
             "c": "3",
             "d": "4"
         },
-        "correct_choice": "d",
         "option a": "1",
         "option b": "2",
         "option c": "3",
+        "correct_choice": "d",
         "option d": "4"
+    },
+    {
+        "question": "Was ereignete sich am 17. Juni 1953 in der DDR?",
+        "choices": {
+            "a": "der feierliche Beitritt zum Warschauer Pakt",
+            "b": "landesweite Streiks und ein Volksaufstand",
+            "c": "der 1. SED-Parteitag",
+            "d": "der erste Besuch Fidel Castros"
+        },
+        "option a": "der feierliche Beitritt zum Warschauer Pakt",
+        "correct_choice": "b",
+        "option b": "landesweite Streiks und ein Volksaufstand",
+        "option c": "der 1. SED-Parteitag",
+        "option d": "der erste Besuch Fidel Castros"
     },
     {
         "question": "Welcher Politiker steht f\u00fcr die \u201eOstvertr\u00e4ge\u201c?",
@@ -2849,8 +2947,8 @@
             "c": "Michail Gorbatschow",
             "d": "Ludwig Erhard"
         },
-        "correct_choice": "b",
         "option a": "Helmut Kohl",
+        "correct_choice": "b",
         "option b": "Willy Brandt",
         "option c": "Michail Gorbatschow",
         "option d": "Ludwig Erhard"
@@ -2863,9 +2961,9 @@
             "c": "Bundesrepublik Deutschland",
             "d": "Bundesbezirk Deutschland"
         },
-        "correct_choice": "c",
         "option a": "Bundesstaat Deutschland",
         "option b": "Bundesl\u00e4nder Deutschland",
+        "correct_choice": "c",
         "option c": "Bundesrepublik Deutschland",
         "option d": "Bundesbezirk Deutschland"
     },
@@ -2877,9 +2975,9 @@
             "c": "83 Millionen",
             "d": "90 Millionen"
         },
-        "correct_choice": "c",
         "option a": "70 Millionen",
         "option b": "78 Millionen",
+        "correct_choice": "c",
         "option c": "83 Millionen",
         "option d": "90 Millionen"
     },
@@ -2905,8 +3003,8 @@
             "c": "Konrad Adenauer",
             "d": "Helmut Schmidt"
         },
-        "correct_choice": "b",
         "option a": "Gerhard Schr\u00f6der",
+        "correct_choice": "b",
         "option b": "Helmut Kohl",
         "option c": "Konrad Adenauer",
         "option d": "Helmut Schmidt"
@@ -2919,8 +3017,8 @@
             "c": "der Reichsadler",
             "d": "die Reichskrone"
         },
-        "correct_choice": "b",
         "option a": "die Fahne der Stadt Berlin",
+        "correct_choice": "b",
         "option b": "der Bundesadler",
         "option c": "der Reichsadler",
         "option d": "die Reichskrone"
@@ -2933,9 +3031,9 @@
             "c": "1949 bis 1990",
             "d": "1945 bis 1961"
         },
-        "correct_choice": "c",
         "option a": "1919 bis 1927",
         "option b": "1933 bis 1945",
+        "correct_choice": "c",
         "option c": "1949 bis 1990",
         "option d": "1945 bis 1961"
     },
@@ -2947,8 +3045,8 @@
             "c": "6",
             "d": "7"
         },
-        "correct_choice": "b",
         "option a": "4",
+        "correct_choice": "b",
         "option b": "5",
         "option c": "6",
         "option d": "7"
@@ -2961,10 +3059,10 @@
             "c": "1971.",
             "d": "1990."
         },
-        "correct_choice": "d",
         "option a": "1933.",
         "option b": "1949.",
         "option c": "1971.",
+        "correct_choice": "d",
         "option d": "1990."
     },
     {
@@ -2975,10 +3073,10 @@
             "c": "an die Wiedervereinigung Deutschlands",
             "d": "an die Opfer des Nationalsozialismus"
         },
-        "correct_choice": "d",
         "option a": "an das Ende des Zweiten Weltkrieges",
         "option b": "an die Verabschiedung des Grundgesetzes",
         "option c": "an die Wiedervereinigung Deutschlands",
+        "correct_choice": "d",
         "option d": "an die Opfer des Nationalsozialismus"
     },
     {
@@ -3003,10 +3101,10 @@
             "c": "Spanien",
             "d": "Schweiz"
         },
-        "correct_choice": "d",
         "option a": "Ungarn",
         "option b": "Portugal",
         "option c": "Spanien",
+        "correct_choice": "d",
         "option d": "Schweiz"
     },
     {
@@ -3017,9 +3115,9 @@
             "c": "Polen",
             "d": "Griechenland"
         },
-        "correct_choice": "c",
         "option a": "Rum\u00e4nien",
         "option b": "Bulgarien",
+        "correct_choice": "c",
         "option c": "Polen",
         "option d": "Griechenland"
     },
@@ -3031,8 +3129,8 @@
             "c": "Einheitliche Union",
             "d": "Euro Union"
         },
-        "correct_choice": "b",
         "option a": "Europ\u00e4ische Unternehmen",
+        "correct_choice": "b",
         "option b": "Europ\u00e4ische Union",
         "option c": "Einheitliche Union",
         "option d": "Euro Union"
@@ -3045,10 +3143,10 @@
             "c": "Spanien",
             "d": "\u00d6sterreich"
         },
-        "correct_choice": "d",
         "option a": "Tschechien",
         "option b": "Norwegen",
         "option c": "Spanien",
+        "correct_choice": "d",
         "option d": "\u00d6sterreich"
     },
     {
@@ -3073,8 +3171,8 @@
             "c": "Norwegen",
             "d": "Schweden"
         },
-        "correct_choice": "b",
         "option a": "Finnland",
+        "correct_choice": "b",
         "option b": "D\u00e4nemark",
         "option c": "Norwegen",
         "option d": "Schweden"
@@ -3087,10 +3185,10 @@
             "c": "Europ\u00e4ische Gemeinschaft",
             "d": "Deutsche Wiedervereinigung"
         },
-        "correct_choice": "d",
         "option a": "NATO-Osterweiterung",
         "option b": "EU-Osterweiterung",
         "option c": "Europ\u00e4ische Gemeinschaft",
+        "correct_choice": "d",
         "option d": "Deutsche Wiedervereinigung"
     },
     {
@@ -3101,10 +3199,10 @@
             "c": "Norwegen",
             "d": "Luxemburg"
         },
-        "correct_choice": "d",
         "option a": "Spanien",
         "option b": "Bulgarien",
         "option c": "Norwegen",
+        "correct_choice": "d",
         "option d": "Luxemburg"
     },
     {
@@ -3129,10 +3227,10 @@
             "c": "Damit sind europ\u00e4ische Auswanderer in den USA gemeint.",
             "d": "Der Begriff meint den Zusammenschluss europ\u00e4ischer Staaten zur EU."
         },
-        "correct_choice": "d",
         "option a": "Damit sind amerikanische Einwanderer in Europa gemeint.",
         "option b": "Der Begriff meint den Einwanderungsstopp nach Europa.",
         "option c": "Damit sind europ\u00e4ische Auswanderer in den USA gemeint.",
+        "correct_choice": "d",
         "option d": "Der Begriff meint den Zusammenschluss europ\u00e4ischer Staaten zur EU."
     },
     {
@@ -3143,10 +3241,10 @@
             "c": "die europ\u00e4ische Verfassung",
             "d": "die Abgeordneten des Europ\u00e4ischen Parlaments"
         },
-        "correct_choice": "d",
         "option a": "die Europ\u00e4ische Kommission",
         "option b": "die L\u00e4nder, die in die EU eintreten d\u00fcrfen",
         "option c": "die europ\u00e4ische Verfassung",
+        "correct_choice": "d",
         "option d": "die Abgeordneten des Europ\u00e4ischen Parlaments"
     },
     {
@@ -3171,10 +3269,10 @@
             "c": "Berlin",
             "d": "Stra\u00dfburg"
         },
-        "correct_choice": "d",
         "option a": "London",
         "option b": "Paris",
         "option c": "Berlin",
+        "correct_choice": "d",
         "option d": "Stra\u00dfburg"
     },
     {
@@ -3185,9 +3283,9 @@
             "c": "Frieden und Sicherheit in den L\u00e4ndern der EU",
             "d": "Einheitliche Feiertage in den L\u00e4ndern der EU"
         },
-        "correct_choice": "c",
         "option a": "Freundschaft zwischen England und Deutschland",
         "option b": "Reisefreiheit in alle L\u00e4nder der EU",
+        "correct_choice": "c",
         "option c": "Frieden und Sicherheit in den L\u00e4ndern der EU",
         "option d": "Einheitliche Feiertage in den L\u00e4ndern der EU"
     },
@@ -3199,10 +3297,10 @@
             "c": "25",
             "d": "27"
         },
-        "correct_choice": "d",
         "option a": "21",
         "option b": "23",
         "option c": "25",
+        "correct_choice": "d",
         "option d": "27"
     },
     {
@@ -3213,8 +3311,8 @@
             "c": "Verpflichtung Deutschlands zu Reparationsleistungen",
             "d": "Festlegung der Oder-Nei\u00dfe-Linie als Ostgrenze"
         },
-        "correct_choice": "b",
         "option a": "Beitritt Deutschlands zur NATO",
+        "correct_choice": "b",
         "option b": "Gr\u00fcndung der Europ\u00e4ischen Wirtschaftsgemeinschaft (EWG)",
         "option c": "Verpflichtung Deutschlands zu Reparationsleistungen",
         "option d": "Festlegung der Oder-Nei\u00dfe-Linie als Ostgrenze"
@@ -3227,8 +3325,8 @@
             "c": "Rom, Bern und Wien",
             "d": "Bonn, Z\u00fcrich und Mailand"
         },
-        "correct_choice": "b",
         "option a": "Paris, London und Den Haag",
+        "correct_choice": "b",
         "option b": "Stra\u00dfburg, Luxemburg und Br\u00fcssel",
         "option c": "Rom, Bern und Wien",
         "option d": "Bonn, Z\u00fcrich und Mailand"
@@ -3241,11 +3339,25 @@
             "c": "durch die \u201ePariser Vertr\u00e4ge\u201c",
             "d": "durch die \u201eLondoner Vertr\u00e4ge\u201c"
         },
-        "correct_choice": "b",
         "option a": "durch die \u201eHamburger Vertr\u00e4ge\u201c",
+        "correct_choice": "b",
         "option b": "durch die \u201eR\u00f6mischen Vertr\u00e4ge\u201c",
         "option c": "durch die \u201ePariser Vertr\u00e4ge\u201c",
         "option d": "durch die \u201eLondoner Vertr\u00e4ge\u201c"
+    },
+    {
+        "question": "Seit wann bezahlt man in Deutschland mit dem Euro in bar?",
+        "choices": {
+            "a": "1995",
+            "b": "1998",
+            "c": "2002",
+            "d": "2005"
+        },
+        "option a": "1995",
+        "option b": "1998",
+        "correct_choice": "c",
+        "option c": "2002",
+        "option d": "2005"
     },
     {
         "question": "Frau Seger bekommt ein Kind. Was muss sie tun, um Elterngeld zu erhalten?",
@@ -3255,9 +3367,9 @@
             "c": "Sie muss einen Antrag bei der Elterngeldstelle stellen.",
             "d": "Sie muss das Arbeitsamt um Erlaubnis bitten."
         },
-        "correct_choice": "c",
         "option a": "Sie muss an ihre Krankenkasse schreiben.",
         "option b": "Sie muss nichts tun, denn sie bekommt automatisch Elterngeld.",
+        "correct_choice": "c",
         "option c": "Sie muss einen Antrag bei der Elterngeldstelle stellen.",
         "option d": "Sie muss das Arbeitsamt um Erlaubnis bitten."
     },
@@ -3269,9 +3381,9 @@
             "c": "die Eltern / die Erziehungsberechtigten",
             "d": "die Schulen"
         },
-        "correct_choice": "c",
         "option a": "der Staat",
         "option b": "die Bundesl\u00e4nder",
+        "correct_choice": "c",
         "option c": "die Eltern / die Erziehungsberechtigten",
         "option d": "die Schulen"
     },
@@ -3283,8 +3395,8 @@
             "c": "Sie k\u00f6nnen gar nichts tun, denn Demonstrationen sind in Deutschland grunds\u00e4tzlich verboten.",
             "d": "Maik und Sybille m\u00fcssen einen neuen Verein gr\u00fcnden, weil nur Vereine demonstrieren d\u00fcrfen."
         },
-        "correct_choice": "b",
         "option a": "Sie m\u00fcssen nichts tun. Man darf in Deutschland jederzeit \u00fcberall demonstrieren.",
+        "correct_choice": "b",
         "option b": "Sie m\u00fcssen die Demonstration anmelden.",
         "option c": "Sie k\u00f6nnen gar nichts tun, denn Demonstrationen sind in Deutschland grunds\u00e4tzlich verboten.",
         "option d": "Maik und Sybille m\u00fcssen einen neuen Verein gr\u00fcnden, weil nur Vereine demonstrieren d\u00fcrfen."
@@ -3311,10 +3423,10 @@
             "c": "Sofie (35 Jahre) und Lisa (40 Jahre)",
             "d": "Anne (13 Jahre) und Tim (25 Jahre)"
         },
-        "correct_choice": "d",
         "option a": "Hans (20 Jahre) und Marie (19 Jahre)",
         "option b": "Tom (20 Jahre) und Klaus (45 Jahre)",
         "option c": "Sofie (35 Jahre) und Lisa (40 Jahre)",
+        "correct_choice": "d",
         "option d": "Anne (13 Jahre) und Tim (25 Jahre)"
     },
     {
@@ -3325,8 +3437,8 @@
             "c": "19",
             "d": "21"
         },
-        "correct_choice": "b",
         "option a": "16",
+        "correct_choice": "b",
         "option b": "18",
         "option c": "19",
         "option d": "21"
@@ -3339,9 +3451,9 @@
             "c": "Mutterschutz",
             "d": "Wochenbett"
         },
-        "correct_choice": "c",
         "option a": "Elternzeit",
         "option b": "Geburtsvorbereitung",
+        "correct_choice": "c",
         "option c": "Mutterschutz",
         "option d": "Wochenbett"
     },
@@ -3353,8 +3465,8 @@
             "c": "der Gro\u00dfeltern.",
             "d": "der Schulen."
         },
-        "correct_choice": "b",
         "option a": "des Staates.",
+        "correct_choice": "b",
         "option b": "der Eltern.",
         "option c": "der Gro\u00dfeltern.",
         "option d": "der Schulen."
@@ -3367,8 +3479,8 @@
             "c": "die Verwandten",
             "d": "die Schulen"
         },
-        "correct_choice": "b",
         "option a": "der Staat",
+        "correct_choice": "b",
         "option b": "die Eltern",
         "option c": "die Verwandten",
         "option d": "die Schulen"
@@ -3381,8 +3493,8 @@
             "c": "eine Frau ist.",
             "d": "Mitglied einer Partei ist."
         },
-        "correct_choice": "b",
         "option a": "katholisch ist.",
+        "correct_choice": "b",
         "option b": "gut ausgebildet ist.",
         "option c": "eine Frau ist.",
         "option d": "Mitglied einer Partei ist."
@@ -3395,10 +3507,10 @@
             "c": "kann man daf\u00fcr nicht bestraft werden.",
             "d": "kann man daf\u00fcr bestraft werden."
         },
-        "correct_choice": "d",
         "option a": "geht das niemanden etwas an.",
         "option b": "geht das nur die Familie etwas an.",
         "option c": "kann man daf\u00fcr nicht bestraft werden.",
+        "correct_choice": "d",
         "option d": "kann man daf\u00fcr bestraft werden."
     },
     {
@@ -3437,10 +3549,10 @@
             "c": "Das Besuchsrecht f\u00fcr die Kinder gilt ein Jahr.",
             "d": "Mann und Frau f\u00fchren mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung m\u00f6glich."
         },
-        "correct_choice": "d",
         "option a": "Der Scheidungsprozess dauert ein Jahr.",
         "option b": "Mann und Frau sind ein Jahr verheiratet, dann ist die Scheidung m\u00f6glich.",
         "option c": "Das Besuchsrecht f\u00fcr die Kinder gilt ein Jahr.",
+        "correct_choice": "d",
         "option d": "Mann und Frau f\u00fchren mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung m\u00f6glich."
     },
     {
@@ -3451,9 +3563,9 @@
             "c": "Jugendamt.",
             "d": "Gesundheitsamt."
         },
-        "correct_choice": "c",
         "option a": "Ordnungsamt.",
         "option b": "Schulamt.",
+        "correct_choice": "c",
         "option c": "Jugendamt.",
         "option d": "Gesundheitsamt."
     },
@@ -3465,10 +3577,10 @@
             "c": "eine Genehmigung des Einwohnermeldeamts",
             "d": "eine Gastst\u00e4ttenerlaubnis von der zust\u00e4ndigen Beh\u00f6rde"
         },
-        "correct_choice": "d",
         "option a": "eine Erlaubnis der Polizei",
         "option b": "eine Genehmigung einer Partei",
         "option c": "eine Genehmigung des Einwohnermeldeamts",
+        "correct_choice": "d",
         "option d": "eine Gastst\u00e4ttenerlaubnis von der zust\u00e4ndigen Beh\u00f6rde"
     },
     {
@@ -3479,8 +3591,8 @@
             "c": "einer Hauptschule.",
             "d": "einer Privatuniversit\u00e4t."
         },
-        "correct_choice": "b",
         "option a": "einer Hochschule.",
+        "correct_choice": "b",
         "option b": "einem Abendgymnasium.",
         "option c": "einer Hauptschule.",
         "option d": "einer Privatuniversit\u00e4t."
@@ -3493,8 +3605,8 @@
             "c": "Es bezahlt das Kindergeld an die Eltern.",
             "d": "Es kontrolliert, ob das Kind einen Kindergarten besucht."
         },
-        "correct_choice": "b",
         "option a": "Es entscheidet, welche Schule das Kind besucht.",
+        "correct_choice": "b",
         "option b": "Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.",
         "option c": "Es bezahlt das Kindergeld an die Eltern.",
         "option d": "Es kontrolliert, ob das Kind einen Kindergarten besucht."
@@ -3507,8 +3619,8 @@
             "c": "Steuererkl\u00e4rung.",
             "d": "Krankenversicherung."
         },
-        "correct_choice": "b",
         "option a": "Rentenberechnung.",
+        "correct_choice": "b",
         "option b": "Lehrstellensuche.",
         "option c": "Steuererkl\u00e4rung.",
         "option d": "Krankenversicherung."
@@ -3521,10 +3633,10 @@
             "c": "Anspruch auf Schulgeld.",
             "d": "Anwesenheitspflicht."
         },
-        "correct_choice": "d",
         "option a": "Recht auf unbegrenzte Freizeit.",
         "option b": "Wahlfreiheit f\u00fcr alle F\u00e4cher.",
         "option c": "Anspruch auf Schulgeld.",
+        "correct_choice": "d",
         "option d": "Anwesenheitspflicht."
     },
     {
@@ -3535,8 +3647,8 @@
             "c": "einer Hauptschule",
             "d": "einer Privatuniversit\u00e4t"
         },
-        "correct_choice": "b",
         "option a": "einer Hochschule",
+        "correct_choice": "b",
         "option b": "einem Abendgymnasium",
         "option c": "einer Hauptschule",
         "option d": "einer Privatuniversit\u00e4t"
@@ -3591,10 +3703,10 @@
             "c": "zur Agentur f\u00fcr Arbeit",
             "d": "zum Standesamt"
         },
-        "correct_choice": "d",
         "option a": "zum Einwohnermeldeamt",
         "option b": "zum Ordnungsamt",
         "option c": "zur Agentur f\u00fcr Arbeit",
+        "correct_choice": "d",
         "option d": "zum Standesamt"
     },
     {
@@ -3605,8 +3717,8 @@
             "c": "wenn die Nachbarn schlafen gehen",
             "d": "um 0 Uhr, Mitternacht"
         },
-        "correct_choice": "b",
         "option a": "wenn die Sonne untergeht",
+        "correct_choice": "b",
         "option b": "um 22 Uhr",
         "option c": "wenn die Nachbarn schlafen gehen",
         "option d": "um 0 Uhr, Mitternacht"
@@ -3633,8 +3745,8 @@
             "c": "Wenn sie kein Deutsch kann, darf sie keinen F\u00fchrerschein haben.",
             "d": "Sie muss den F\u00fchrerschein in dem Land machen, in dem man ihre Sprache spricht."
         },
-        "correct_choice": "b",
         "option a": "Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den F\u00fchrerschein machen kann.",
+        "correct_choice": "b",
         "option b": "Sie kann die Theorie-Pr\u00fcfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl.",
         "option c": "Wenn sie kein Deutsch kann, darf sie keinen F\u00fchrerschein haben.",
         "option d": "Sie muss den F\u00fchrerschein in dem Land machen, in dem man ihre Sprache spricht."
@@ -3647,11 +3759,25 @@
             "c": "einen Platz in einem Sportverein.",
             "d": "einen Ferienpass."
         },
-        "correct_choice": "b",
         "option a": "monatliches Taschengeld.",
+        "correct_choice": "b",
         "option b": "einen Kindergartenplatz.",
         "option c": "einen Platz in einem Sportverein.",
         "option d": "einen Ferienpass."
+    },
+    {
+        "question": "Die Volkshochschule in Deutschland ist eine Einrichtung \u2026",
+        "choices": {
+            "a": "f\u00fcr den Religionsunterricht.",
+            "b": "nur f\u00fcr Jugendliche.",
+            "c": "zur Weiterbildung.",
+            "d": "nur f\u00fcr Rentner und Rentnerinnen."
+        },
+        "option a": "f\u00fcr den Religionsunterricht.",
+        "option b": "nur f\u00fcr Jugendliche.",
+        "correct_choice": "c",
+        "option c": "zur Weiterbildung.",
+        "option d": "nur f\u00fcr Rentner und Rentnerinnen."
     },
     {
         "question": "Was ist in Deutschland ein Brauch zu Weihnachten?",
@@ -3661,8 +3787,8 @@
             "c": "sich mit Masken und Kost\u00fcmen verkleiden",
             "d": "K\u00fcrbisse vor die T\u00fcr stellen"
         },
-        "correct_choice": "b",
         "option a": "bunte Eier verstecken",
+        "correct_choice": "b",
         "option b": "einen Tannenbaum schm\u00fccken",
         "option c": "sich mit Masken und Kost\u00fcmen verkleiden",
         "option d": "K\u00fcrbisse vor die T\u00fcr stellen"
@@ -3675,10 +3801,10 @@
             "c": "Ein alleinerziehender Vater lebt mit seinen zwei Kindern zusammen.",
             "d": "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet."
         },
-        "correct_choice": "d",
         "option a": "Mann und Frau sind geschieden und leben mit neuen Partnern zusammen.",
         "option b": "Zwei Frauen leben zusammen.",
         "option c": "Ein alleinerziehender Vater lebt mit seinen zwei Kindern zusammen.",
+        "correct_choice": "d",
         "option d": "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet."
     },
     {
@@ -3689,10 +3815,10 @@
             "c": "zum Einwohnermeldeamt.",
             "d": "zum Jugendamt."
         },
-        "correct_choice": "d",
         "option a": "zum Arzt / zur \u00c4rztin.",
         "option b": "zum Gesundheitsamt.",
         "option c": "zum Einwohnermeldeamt.",
+        "correct_choice": "d",
         "option d": "zum Jugendamt."
     },
     {
@@ -3703,8 +3829,8 @@
             "c": "die Schweigepflicht",
             "d": "die Meinungsfreiheit"
         },
-        "correct_choice": "b",
         "option a": "das Schweigerecht",
+        "correct_choice": "b",
         "option b": "das Briefgeheimnis",
         "option c": "die Schweigepflicht",
         "option d": "die Meinungsfreiheit"
@@ -3717,10 +3843,10 @@
             "c": "die Einwilligung der Kinder",
             "d": "die Unterst\u00fctzung eines Anwalts / einer Anw\u00e4ltin"
         },
-        "correct_choice": "d",
         "option a": "die Einwilligung der Eltern",
         "option b": "ein Attest eines Arztes / einer \u00c4rztin",
         "option c": "die Einwilligung der Kinder",
+        "correct_choice": "d",
         "option d": "die Unterst\u00fctzung eines Anwalts / einer Anw\u00e4ltin"
     },
     {
@@ -3731,10 +3857,10 @@
             "c": "Ich drohe der Person.",
             "d": "Ich kann mich beim Beh\u00f6rdenleiter / bei der Beh\u00f6rdenleiterin beschweren."
         },
-        "correct_choice": "d",
         "option a": "Ich kann nichts tun.",
         "option b": "Ich muss mir diese Behandlung gefallen lassen.",
         "option c": "Ich drohe der Person.",
+        "correct_choice": "d",
         "option d": "Ich kann mich beim Beh\u00f6rdenleiter / bei der Beh\u00f6rdenleiterin beschweren."
     },
     {
@@ -3745,10 +3871,10 @@
             "c": "keine Erfahrungen in diesem Beruf hat.",
             "d": "Mutter ist."
         },
-        "correct_choice": "d",
         "option a": "kein Englisch spricht.",
         "option b": "zu hohe Gehaltsvorstellungen hat.",
         "option c": "keine Erfahrungen in diesem Beruf hat.",
+        "correct_choice": "d",
         "option d": "Mutter ist."
     },
     {
@@ -3773,9 +3899,9 @@
             "c": "Regeln, an die sich alle Bewohner und Bewohnerinnen halten m\u00fcssen.",
             "d": "die Adresse des n\u00e4chsten Ordnungsamtes."
         },
-        "correct_choice": "c",
         "option a": "Regeln f\u00fcr die Benutzung \u00f6ffentlicher Verkehrsmittel.",
         "option b": "alle Mieter und Mieterinnen im Haus.",
+        "correct_choice": "c",
         "option c": "Regeln, an die sich alle Bewohner und Bewohnerinnen halten m\u00fcssen.",
         "option d": "die Adresse des n\u00e4chsten Ordnungsamtes."
     },
@@ -3787,9 +3913,9 @@
             "c": "Einspruch einlegen.",
             "d": "warten, bis ein anderer Bescheid kommt."
         },
-        "correct_choice": "c",
         "option a": "nichts machen.",
         "option b": "den Bescheid wegwerfen.",
+        "correct_choice": "c",
         "option c": "Einspruch einlegen.",
         "option d": "warten, bis ein anderer Bescheid kommt."
     },
@@ -3801,8 +3927,8 @@
             "c": "Versammlungsfreiheit.",
             "d": "Freiz\u00fcgigkeit."
         },
-        "correct_choice": "b",
         "option a": "Meinungsfreiheit.",
+        "correct_choice": "b",
         "option b": "Gleichbehandlung.",
         "option c": "Versammlungsfreiheit.",
         "option d": "Freiz\u00fcgigkeit."
@@ -3815,9 +3941,9 @@
             "c": "Wahlhelfer / Wahlhelferin",
             "d": "Lehrer / Lehrerin"
         },
-        "correct_choice": "c",
         "option a": "Vereinstrainer / Vereinstrainerin",
         "option b": "Bibliotheksaufsicht",
+        "correct_choice": "c",
         "option c": "Wahlhelfer / Wahlhelferin",
         "option d": "Lehrer / Lehrerin"
     },
@@ -3829,8 +3955,8 @@
             "c": "Ich schicke die Rechnung an die Beh\u00f6rde zur\u00fcck.",
             "d": "Ich gehe mit der Rechnung zum Finanzamt."
         },
-        "correct_choice": "b",
         "option a": "Ich lasse die Rechnung liegen.",
+        "correct_choice": "b",
         "option b": "Ich lege Widerspruch bei der Beh\u00f6rde ein.",
         "option c": "Ich schicke die Rechnung an die Beh\u00f6rde zur\u00fcck.",
         "option d": "Ich gehe mit der Rechnung zum Finanzamt."
@@ -3843,9 +3969,9 @@
             "c": "Erwachsene m\u00fcssen auch nach der Ausbildung immer weiter lernen.",
             "d": "Alle m\u00fcssen fr\u00fcher aufh\u00f6ren zu arbeiten, weil sich alles \u00e4ndert."
         },
-        "correct_choice": "c",
         "option a": "Es ist egal, was man lernt.",
         "option b": "Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule muss man nicht weiter lernen.",
+        "correct_choice": "c",
         "option c": "Erwachsene m\u00fcssen auch nach der Ausbildung immer weiter lernen.",
         "option d": "Alle m\u00fcssen fr\u00fcher aufh\u00f6ren zu arbeiten, weil sich alles \u00e4ndert."
     },
@@ -3885,9 +4011,9 @@
             "c": "die K\u00fcndigungsfrist",
             "d": "die Versicherungspflicht"
         },
-        "correct_choice": "c",
         "option a": "die Gehaltszahlungen",
         "option b": "die Arbeitszeit",
+        "correct_choice": "c",
         "option c": "die K\u00fcndigungsfrist",
         "option d": "die Versicherungspflicht"
     },
@@ -3899,9 +4025,9 @@
             "c": "bei der Kommune (Stadt oder Gemeinde)",
             "d": "beim Gesundheitsamt"
         },
-        "correct_choice": "c",
         "option a": "beim Finanzamt",
         "option b": "beim Einwohnermeldeamt",
+        "correct_choice": "c",
         "option c": "bei der Kommune (Stadt oder Gemeinde)",
         "option d": "beim Gesundheitsamt"
     },
@@ -3913,9 +4039,9 @@
             "c": "er eine dunkle Haut hat.",
             "d": "er keine Erfahrungen im Beruf hat."
         },
-        "correct_choice": "c",
         "option a": "seine Deutschkenntnisse zu gering sind.",
         "option b": "er zu hohe Gehaltsvorstellungen hat.",
+        "correct_choice": "c",
         "option c": "er eine dunkle Haut hat.",
         "option d": "er keine Erfahrungen im Beruf hat."
     },
@@ -3927,8 +4053,8 @@
             "c": "das Ger\u00e4t ungefragt austauschen",
             "d": "die Garantie verl\u00e4ngern"
         },
-        "correct_choice": "b",
         "option a": "eine Anzeige schreiben",
+        "correct_choice": "b",
         "option b": "den Fernseher reklamieren",
         "option c": "das Ger\u00e4t ungefragt austauschen",
         "option d": "die Garantie verl\u00e4ngern"
@@ -3941,8 +4067,8 @@
             "c": "man mehr Steuern zahlen muss, wenn man nicht zu einer Kirche geh\u00f6rt.",
             "d": "die Kirche f\u00fcr die Steuererkl\u00e4rung verantwortlich ist."
         },
-        "correct_choice": "b",
         "option a": "das f\u00fcr die Statistik in Deutschland wichtig ist.",
+        "correct_choice": "b",
         "option b": "es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer gekn\u00fcpft ist.",
         "option c": "man mehr Steuern zahlen muss, wenn man nicht zu einer Kirche geh\u00f6rt.",
         "option d": "die Kirche f\u00fcr die Steuererkl\u00e4rung verantwortlich ist."
@@ -3955,9 +4081,9 @@
             "c": "Jeder kann glauben, was er m\u00f6chte.",
             "d": "Der Staat entscheidet, an welchen Gott die Menschen glauben."
         },
-        "correct_choice": "c",
         "option a": "Es d\u00fcrfen keine Moscheen gebaut werden.",
         "option b": "Alle Menschen glauben an Gott.",
+        "correct_choice": "c",
         "option c": "Jeder kann glauben, was er m\u00f6chte.",
         "option d": "Der Staat entscheidet, an welchen Gott die Menschen glauben."
     },
@@ -3969,9 +4095,9 @@
             "c": "Eier bemalen",
             "d": "Raketen in die Luft schie\u00dfen"
         },
-        "correct_choice": "c",
         "option a": "K\u00fcrbisse vor die T\u00fcr stellen",
         "option b": "einen Tannenbaum schm\u00fccken",
+        "correct_choice": "c",
         "option c": "Eier bemalen",
         "option d": "Raketen in die Luft schie\u00dfen"
     },
@@ -3997,8 +4123,8 @@
             "c": "der Buddhismus",
             "d": "der Islam"
         },
-        "correct_choice": "b",
         "option a": "der Hinduismus",
+        "correct_choice": "b",
         "option b": "das Christentum",
         "option c": "der Buddhismus",
         "option d": "der Islam"
@@ -4011,9 +4137,9 @@
             "c": "die Adventszeit.",
             "d": "Allerheiligen."
         },
-        "correct_choice": "c",
         "option a": "den Bu\u00df- und Bettag.",
         "option b": "das Erntedankfest.",
+        "correct_choice": "c",
         "option c": "die Adventszeit.",
         "option d": "Allerheiligen."
     },
@@ -4025,10 +4151,10 @@
             "c": "Marokko",
             "d": "T\u00fcrkei"
         },
-        "correct_choice": "d",
         "option a": "Italien",
         "option b": "Polen",
         "option c": "Marokko",
+        "correct_choice": "d",
         "option d": "T\u00fcrkei"
     },
     {
@@ -4053,10 +4179,24 @@
             "c": "Zeitarbeiter / Zeitarbeiterinnen.",
             "d": "Schichtarbeiter / Schichtarbeiterinnen."
         },
-        "correct_choice": "b",
         "option a": "Schwarzarbeiter / Schwarzarbeiterinnen.",
+        "correct_choice": "b",
         "option b": "Gastarbeiter / Gastarbeiterinnen.",
         "option c": "Zeitarbeiter / Zeitarbeiterinnen.",
         "option d": "Schichtarbeiter / Schichtarbeiterinnen."
+    },
+    {
+        "question": "Aus welchem Land kamen die ersten Gastarbeiter / Gastarbeiterinnen in die Bundesrepublik Deutschland?",
+        "choices": {
+            "a": "Italien",
+            "b": "Spanien",
+            "c": "Portugal",
+            "d": "T\u00fcrkei"
+        },
+        "correct_choice": "a",
+        "option a": "Italien",
+        "option b": "Spanien",
+        "option c": "Portugal",
+        "option d": "T\u00fcrkei"
     }
 ]

@@ -43,7 +43,7 @@ export default function Home() {
           <h1 className="text-left text-2xl font-semibold mb-8">Einburgerungstest</h1>
           {questionsData.data.map((item, questionIndex) => (
             <div key={questionIndex} className="mb-16">
-              <h3 className="text-xl font-semibold mb-2">{item.question}</h3>
+              <h3 className="text-xl font-semibold mb-2">{questionIndex+1}. {item.question}</h3>
               <div className="flex flex-col space-y-2">
                 {Object.keys(item.choices).map((choiceKey) => (
                   <button
@@ -51,12 +51,12 @@ export default function Home() {
                     onClick={() =>
                       handleChoiceClick(questionIndex, choiceKey, item.correct_choice)
                     }
-                    className={`checked:bg-red-600 flex text-base rounded-md hover:border-gray-500 border-gray-300 px-6 py-3 border-2 bg-gray-100 ${getButtonClasses(
+                    className={`checked:bg-red-600 flex text-left text-base rounded-md hover:border-gray-500 border-gray-300 px-6 py-3 border-2 bg-gray-100 ${getButtonClasses(
                       questionIndex,
                       choiceKey
                     )}`}
                   >
-                    {item.choices[choiceKey]}
+                    {choiceKey}). {item.choices[choiceKey]}
                   </button>
                 ))}
               </div>
