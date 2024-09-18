@@ -1,9 +1,11 @@
 "use client";
 import { useState, useEffect } from 'react';
+import Image from 'next/image'
 
 
 export default function Home() {
   const [questionsData, setQuestionsData] = useState({ data: [] });
+  const images = [21, 55, 70, 130, 176, 181, 187, 209, 216, 226, 235]
   useEffect(() => {
     fetch('/api/data')
       .then((res) => res.json())
@@ -44,6 +46,18 @@ export default function Home() {
           {questionsData.data.map((item, questionIndex) => (
             <div key={questionIndex} className="mb-16">
               <h3 className="text-xl font-semibold mb-2">{questionIndex+1}. {item.question}</h3>
+              {
+                images.includes(questionIndex+1) && (
+                  <div className="mb-8">
+                    <Image
+                      src={`/images/general/${questionIndex+1}.webp`}
+                      width={300}
+                      height={300}
+                      alt="Picture of the author"
+                    />
+                  </div>
+                )
+              }
               <div className="flex flex-col space-y-2">
                 {Object.keys(item.choices).map((choiceKey) => (
                   <button
