@@ -1,0 +1,668 @@
+[
+  {
+      "german_verb": "anbieten",
+      "english_verb": "(to) offer",
+      "simple_past": "bot an",
+      "past_participle": "angeboten"
+  },
+  {
+      "german_verb": "\u00e4ndern",
+      "english_verb": "(to) change",
+      "simple_past": "\u00e4nderte",
+      "past_participle": "ge\u00e4ndert"
+  },
+  {
+      "german_verb": "anfangen",
+      "english_verb": "(to) begin",
+      "simple_past": "fing an",
+      "past_participle": "angefangen"
+  },
+  {
+      "german_verb": "ansehen",
+      "english_verb": "(to) look at",
+      "simple_past": "sah ah",
+      "past_participle": "angesehen"
+  },
+  {
+      "german_verb": "antworten",
+      "english_verb": "(to) answer, reply",
+      "simple_past": "antwortete",
+      "past_participle": "geantwortet"
+  },
+  {
+      "german_verb": "arbeiten",
+      "english_verb": "(to) work",
+      "simple_past": "arbeitete",
+      "past_participle": "gearbeitet"
+  },
+  {
+      "german_verb": "aussehen",
+      "english_verb": "(to) look, appear",
+      "simple_past": "sah aus",
+      "past_participle": "ausgesehen"
+  },
+  {
+      "german_verb": "bedeuten",
+      "english_verb": "(to) mean",
+      "simple_past": "bedeutete",
+      "past_participle": "bedeutet"
+  },
+  {
+      "german_verb": "beginnen",
+      "english_verb": "(to) begin, start",
+      "simple_past": "begann",
+      "past_participle": "begonnen"
+  },
+  {
+      "german_verb": "bekommen",
+      "english_verb": "(to) get",
+      "simple_past": "bekam",
+      "past_participle": "bekommen"
+  },
+  {
+      "german_verb": "bestellen",
+      "english_verb": "(to) order",
+      "simple_past": "bestellte",
+      "past_participle": "bestellt"
+  },
+  {
+      "german_verb": "besuchen",
+      "english_verb": "(to) visit",
+      "simple_past": "besuchte",
+      "past_participle": "besucht"
+  },
+  {
+      "german_verb": "betreffen",
+      "english_verb": "(to) concern, affect",
+      "simple_past": "betraf",
+      "past_participle": "betroffen"
+  },
+  {
+      "german_verb": "bieten",
+      "english_verb": "(to) offer",
+      "simple_past": "bot",
+      "past_participle": "geboten"
+  },
+  {
+      "german_verb": "bilden",
+      "english_verb": "(to) form, shape",
+      "simple_past": "bildete",
+      "past_participle": "gebildet"
+  },
+  {
+      "german_verb": "bleiben",
+      "english_verb": "(to) stay",
+      "simple_past": "blieb",
+      "past_participle": "geblieben"
+  },
+  {
+      "german_verb": "brauchen",
+      "english_verb": "(to) need",
+      "simple_past": "brauchte",
+      "past_participle": "gebraucht"
+  },
+  {
+      "german_verb": "bringen",
+      "english_verb": "(to) bring",
+      "simple_past": "brachte",
+      "past_participle": "gebracht"
+  },
+  {
+      "german_verb": "danken",
+      "english_verb": "(to) thank",
+      "simple_past": "dankte",
+      "past_participle": "gedankt"
+  },
+  {
+      "german_verb": "denken",
+      "english_verb": "(to) think",
+      "simple_past": "dachte",
+      "past_participle": "gedacht"
+  },
+  {
+      "german_verb": "d\u00fcrfen",
+      "english_verb": "(to) be allowed to",
+      "simple_past": "durfte",
+      "past_participle": "gedurft"
+  },
+  {
+      "german_verb": "entwickeln",
+      "english_verb": "(to) develop",
+      "simple_past": "entwickelte",
+      "past_participle": "entwickelt"
+  },
+  {
+      "german_verb": "ergeben",
+      "english_verb": "(to) yield, result in",
+      "simple_past": "ergab",
+      "past_participle": "ergeben"
+  },
+  {
+      "german_verb": "erinnern",
+      "english_verb": "(to) recall, remember",
+      "simple_past": "erinnerte",
+      "past_participle": "erinnert"
+  },
+  {
+      "german_verb": "erkennen",
+      "english_verb": "(to) recognise, detect",
+      "simple_past": "erkannte",
+      "past_participle": "erkannt"
+  },
+  {
+      "german_verb": "erkl\u00e4ren",
+      "english_verb": "(to) explain",
+      "simple_past": "erkl\u00e4rte",
+      "past_participle": "erkl\u00e4rt"
+  },
+  {
+      "german_verb": "erreichen",
+      "english_verb": "(to) reach",
+      "simple_past": "erreichte",
+      "past_participle": "erreicht"
+  },
+  {
+      "german_verb": "erscheinen",
+      "english_verb": "(to) appear",
+      "simple_past": "erschien",
+      "past_participle": "erschienen"
+  },
+  {
+      "german_verb": "erwarten",
+      "english_verb": "(to) expect, await",
+      "simple_past": "erwartete",
+      "past_participle": "erwartet"
+  },
+  {
+      "german_verb": "essen",
+      "english_verb": "(to) eat",
+      "simple_past": "a\u00df",
+      "past_participle": "gegessen"
+  },
+  {
+      "german_verb": "fahren",
+      "english_verb": "(to) drive",
+      "simple_past": "fuhr",
+      "past_participle": "gefahren"
+  },
+  {
+      "german_verb": "finden",
+      "english_verb": "(to) find",
+      "simple_past": "fand",
+      "past_participle": "gefunden"
+  },
+  {
+      "german_verb": "folgen",
+      "english_verb": "(to) follow",
+      "simple_past": "folgte",
+      "past_participle": "gefolgt"
+  },
+  {
+      "german_verb": "fragen",
+      "english_verb": "(to) ask, question",
+      "simple_past": "fragte",
+      "past_participle": "gefragt"
+  },
+  {
+      "german_verb": "f\u00fchlen",
+      "english_verb": "(to) feel",
+      "simple_past": "f\u00fchlte",
+      "past_participle": "gef\u00fchlt"
+  },
+  {
+      "german_verb": "f\u00fchren",
+      "english_verb": "(to) lead",
+      "simple_past": "f\u00fchrte",
+      "past_participle": "gef\u00fchrt"
+  },
+  {
+      "german_verb": "geben",
+      "english_verb": "(to) give",
+      "simple_past": "gab",
+      "past_participle": "gegeben"
+  },
+  {
+      "german_verb": "gehen",
+      "english_verb": "(to) go",
+      "simple_past": "ging",
+      "past_participle": "gegangen"
+  },
+  {
+      "german_verb": "geh\u00f6ren",
+      "english_verb": "(to) belong",
+      "simple_past": "h\u00f6rte",
+      "past_participle": "geh\u00f6rt"
+  },
+  {
+      "german_verb": "gewinnen",
+      "english_verb": "(to) win",
+      "simple_past": "gewann",
+      "past_participle": "gewonnen"
+  },
+  {
+      "german_verb": "glauben",
+      "english_verb": "(to) believe",
+      "simple_past": "glaubte",
+      "past_participle": "geglaubt"
+  },
+  {
+      "german_verb": "haben",
+      "english_verb": "(to) have",
+      "simple_past": "hatte",
+      "past_participle": "gehabt"
+  },
+  {
+      "german_verb": "halten",
+      "english_verb": "(to) hold",
+      "simple_past": "hielt",
+      "past_participle": "gehalten"
+  },
+  {
+      "german_verb": "handeln",
+      "english_verb": "(to) act, trade",
+      "simple_past": "handelete",
+      "past_participle": "gehandelt"
+  },
+  {
+      "german_verb": "hei\u00dfen",
+      "english_verb": "(to) be called",
+      "simple_past": "hie\u00df",
+      "past_participle": "gehei\u00dfen"
+  },
+  {
+      "german_verb": "helfen",
+      "english_verb": "(to) help",
+      "simple_past": "half",
+      "past_participle": "geholfen"
+  },
+  {
+      "german_verb": "h\u00f6ren",
+      "english_verb": "(to) hear, listen",
+      "simple_past": "h\u00f6rte",
+      "past_participle": "geh\u00f6rt"
+  },
+  {
+      "german_verb": "interessieren",
+      "english_verb": "(to) interest",
+      "simple_past": "interessierte",
+      "past_participle": "interessiert"
+  },
+  {
+      "german_verb": "kaufen",
+      "english_verb": "(to) buy",
+      "simple_past": "kaufte",
+      "past_participle": "gekauft"
+  },
+  {
+      "german_verb": "kennen",
+      "english_verb": "(to) know",
+      "simple_past": "kannte",
+      "past_participle": "gekannt"
+  },
+  {
+      "german_verb": "kommen",
+      "english_verb": "(to) come",
+      "simple_past": "kam",
+      "past_participle": "gekommen"
+  },
+  {
+      "german_verb": "k\u00f6nnen",
+      "english_verb": "(to) be able to",
+      "simple_past": "konnte",
+      "past_participle": "gekonnt"
+  },
+  {
+      "german_verb": "lachen",
+      "english_verb": "(to) laugh",
+      "simple_past": "lachte",
+      "past_participle": "gelacht"
+  },
+  {
+      "german_verb": "lassen",
+      "english_verb": "(to) let",
+      "simple_past": "lie\u00df",
+      "past_participle": "gelassen"
+  },
+  {
+      "german_verb": "laufen",
+      "english_verb": "(to) run",
+      "simple_past": "lief",
+      "past_participle": "gelaufen"
+  },
+  {
+      "german_verb": "leben",
+      "english_verb": "(to) live",
+      "simple_past": "lebte",
+      "past_participle": "gelebt"
+  },
+  {
+      "german_verb": "legen",
+      "english_verb": "(to) lay, put down",
+      "simple_past": "legte",
+      "past_participle": "gelegt"
+  },
+  {
+      "german_verb": "lernen",
+      "english_verb": "(to) learn",
+      "simple_past": "lernte",
+      "past_participle": "gelernt"
+  },
+  {
+      "german_verb": "lesen",
+      "english_verb": "(to) read",
+      "simple_past": "las",
+      "past_participle": "gelesen"
+  },
+  {
+      "german_verb": "lieben",
+      "english_verb": "(to) love",
+      "simple_past": "liebte",
+      "past_participle": "geliebt"
+  },
+  {
+      "german_verb": "liegen",
+      "english_verb": "(to) lie (down)",
+      "simple_past": "lag",
+      "past_participle": "gelegen"
+  },
+  {
+      "german_verb": "machen",
+      "english_verb": "(to) make, do",
+      "simple_past": "machte",
+      "past_participle": "gemacht"
+  },
+  {
+      "german_verb": "meinen",
+      "english_verb": "(to) mean",
+      "simple_past": "meinte",
+      "past_participle": "gemeint"
+  },
+  {
+      "german_verb": "m\u00f6gen",
+      "english_verb": "(to) live",
+      "simple_past": "mochte",
+      "past_participle": "gemocht"
+  },
+  {
+      "german_verb": "m\u00fcssen",
+      "english_verb": "(to) have to",
+      "simple_past": "musste",
+      "past_participle": "gemusst"
+  },
+  {
+      "german_verb": "nehmen",
+      "english_verb": "(to) take",
+      "simple_past": "nahm",
+      "past_participle": "genommen"
+  },
+  {
+      "german_verb": "nennen",
+      "english_verb": "(to) call, name, mention",
+      "simple_past": "nannte",
+      "past_participle": "genannt"
+  },
+  {
+      "german_verb": "\u00f6ffnen",
+      "english_verb": "(to) open",
+      "simple_past": "\u00f6ffnete",
+      "past_participle": "ge\u00f6ffnet"
+  },
+  {
+      "german_verb": "reden",
+      "english_verb": "(to) talk",
+      "simple_past": "redete",
+      "past_participle": "geredet"
+  },
+  {
+      "german_verb": "reisen",
+      "english_verb": "(to) travel",
+      "simple_past": "reiste",
+      "past_participle": "gereist"
+  },
+  {
+      "german_verb": "rennen",
+      "english_verb": "(to) run",
+      "simple_past": "rannte",
+      "past_participle": "gerannt"
+  },
+  {
+      "german_verb": "riechen",
+      "english_verb": "(to) smell",
+      "simple_past": "roch",
+      "past_participle": "gerochen"
+  },
+  {
+      "german_verb": "sagen",
+      "english_verb": "(to) say",
+      "simple_past": "sagte",
+      "past_participle": "gesagt"
+  },
+  {
+      "german_verb": "schaffen",
+      "english_verb": "(to) create, achieve",
+      "simple_past": "schuf",
+      "past_participle": "geschaffen"
+  },
+  {
+      "german_verb": "scheinen",
+      "english_verb": "(to) seem, shine",
+      "simple_past": "schien",
+      "past_participle": "geschienen"
+  },
+  {
+      "german_verb": "schlafen",
+      "english_verb": "(to) sleep",
+      "simple_past": "schlief",
+      "past_participle": "geschlafen"
+  },
+  {
+      "german_verb": "schlie\u00dfen",
+      "english_verb": "(to) close",
+      "simple_past": "schloss",
+      "past_participle": "geschlossen"
+  },
+  {
+      "german_verb": "schmecken",
+      "english_verb": "(to) taste",
+      "simple_past": "schmecke",
+      "past_participle": "geschmeckt"
+  },
+  {
+      "german_verb": "schreiben",
+      "english_verb": "(to) write",
+      "simple_past": "schrieb",
+      "past_participle": "geschrieben"
+  },
+  {
+      "german_verb": "sehen",
+      "english_verb": "(to) see",
+      "simple_past": "sah",
+      "past_participle": "gesehen"
+  },
+  {
+      "german_verb": "sein",
+      "english_verb": "(to) be",
+      "simple_past": "war",
+      "past_participle": "gewesen"
+  },
+  {
+      "german_verb": "senden",
+      "english_verb": "(to) send",
+      "simple_past": "sandtesendete",
+      "past_participle": "gesandtgesendet"
+  },
+  {
+      "german_verb": "setzen",
+      "english_verb": "(to) sit down, put down",
+      "simple_past": "setzte",
+      "past_participle": "gesetzt"
+  },
+  {
+      "german_verb": "singen",
+      "english_verb": "(to) sing",
+      "simple_past": "sang",
+      "past_participle": "gesungen"
+  },
+  {
+      "german_verb": "sitzen",
+      "english_verb": "(to) sit",
+      "simple_past": "sa\u00df",
+      "past_participle": "gesessen"
+  },
+  {
+      "german_verb": "sollen",
+      "english_verb": "(to) be supposed to, ought",
+      "simple_past": "sollte",
+      "past_participle": "gesollt"
+  },
+  {
+      "german_verb": "spielen",
+      "english_verb": "(to) play",
+      "simple_past": "spielte",
+      "past_participle": "gespielt"
+  },
+  {
+      "german_verb": "sprechen",
+      "english_verb": "(to) speak",
+      "simple_past": "sprach",
+      "past_participle": "gesprochen"
+  },
+  {
+      "german_verb": "stehen",
+      "english_verb": "(to) stand",
+      "simple_past": "stand",
+      "past_participle": "gestanden"
+  },
+  {
+      "german_verb": "stellen",
+      "english_verb": "(to) put",
+      "simple_past": "stellte",
+      "past_participle": "gestellt"
+  },
+  {
+      "german_verb": "studieren",
+      "english_verb": "(to) study",
+      "simple_past": "studierte",
+      "past_participle": "studiert"
+  },
+  {
+      "german_verb": "suchen",
+      "english_verb": "(to) search, look for",
+      "simple_past": "suchte",
+      "past_participle": "gesucht"
+  },
+  {
+      "german_verb": "teilen",
+      "english_verb": "(to) divide, share",
+      "simple_past": "teilte",
+      "past_participle": "geteilt"
+  },
+  {
+      "german_verb": "tragen",
+      "english_verb": "(to) carry, wear",
+      "simple_past": "trug",
+      "past_participle": "getragen"
+  },
+  {
+      "german_verb": "treffen",
+      "english_verb": "(to) meet, encounter",
+      "simple_past": "traf",
+      "past_participle": "getroffen"
+  },
+  {
+      "german_verb": "trinken",
+      "english_verb": "(to) drink",
+      "simple_past": "trank",
+      "past_participle": "getrunken"
+  },
+  {
+      "german_verb": "tun",
+      "english_verb": "(to) do",
+      "simple_past": "tat",
+      "past_participle": "getan"
+  },
+  {
+      "german_verb": "verbinden",
+      "english_verb": "(to) connect",
+      "simple_past": "verband",
+      "past_participle": "verbunden"
+  },
+  {
+      "german_verb": "verlassen",
+      "english_verb": "(to) leave",
+      "simple_past": "verlie\u00df",
+      "past_participle": "verlassen"
+  },
+  {
+      "german_verb": "verlieren",
+      "english_verb": "(to) lose",
+      "simple_past": "verlor",
+      "past_participle": "verloren"
+  },
+  {
+      "german_verb": "verstehen",
+      "english_verb": "(to) understand",
+      "simple_past": "verstand",
+      "past_participle": "verstanden"
+  },
+  {
+      "german_verb": "versuchen",
+      "english_verb": "(to) try, attempt",
+      "simple_past": "versuchte",
+      "past_participle": "versucht"
+  },
+  {
+      "german_verb": "verwenden",
+      "english_verb": "(to) use",
+      "simple_past": "verwandteverwendete",
+      "past_participle": "verwandtverwendet"
+  },
+  {
+      "german_verb": "warten",
+      "english_verb": "(to) wait",
+      "simple_past": "wartete",
+      "past_participle": "gewartet"
+  },
+  {
+      "german_verb": "werden",
+      "english_verb": "(to) become, will",
+      "simple_past": "wurde",
+      "past_participle": "geworden"
+  },
+  {
+      "german_verb": "wissen",
+      "english_verb": "(to) know",
+      "simple_past": "wusste",
+      "past_participle": "gewusst"
+  },
+  {
+      "german_verb": "wohnen",
+      "english_verb": "(to) live, reside",
+      "simple_past": "wohnte",
+      "past_participle": "gewohnt"
+  },
+  {
+      "german_verb": "wollen",
+      "english_verb": "(to) want",
+      "simple_past": "wollte",
+      "past_participle": "gewollt"
+  },
+  {
+      "german_verb": "z\u00e4hlen",
+      "english_verb": "(to) count",
+      "simple_past": "z\u00e4hlte",
+      "past_participle": "gez\u00e4hlt"
+  },
+  {
+      "german_verb": "zeigen",
+      "english_verb": "(to) show, demonstrate",
+      "simple_past": "zeigte",
+      "past_participle": "gezeigt"
+  },
+  {
+      "german_verb": "ziehen",
+      "english_verb": "(to) pull",
+      "simple_past": "zog",
+      "past_participle": "gezogen"
+  }
+]
